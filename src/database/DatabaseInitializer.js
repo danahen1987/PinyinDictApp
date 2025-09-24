@@ -40,6 +40,10 @@ export class DatabaseInitializer {
         const danaUser = await this.databaseHelper.getUserByUsername('dana');
         if (danaUser) {
           await this.databaseHelper.setUserAsAdmin('dana');
+        } else {
+          // If dana user doesn't exist, create it as admin
+          await this.databaseHelper.createUser('dana', 'password123', 'dana@example.com');
+          await this.databaseHelper.setUserAsAdmin('dana');
         }
         
         return true;

@@ -388,7 +388,23 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
         trackCharacterView(characterId);
       }
     } else {
-      setError('Character not found in cache');
+      // Fallback: try to find character in allCharacters array
+      const characterFromArray = allCharacters.find(char => char.id === characterId);
+      if (characterFromArray) {
+        setCurrentCharacter(characterFromArray.character);
+        setCurrentSentence(characterFromArray.sentence);
+        setCurrentCharacterId(characterId);
+        setCurrentPosition(position);
+        setShowDiscovery(false);
+        setError(null);
+        
+        // Track character as viewed if user is logged in
+        if (currentUser && currentUser !== 'Guest') {
+          trackCharacterView(characterId);
+        }
+      } else {
+        setError('Character not found in cache or array');
+      }
     }
   };
 
