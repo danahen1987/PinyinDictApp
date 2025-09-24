@@ -1,0 +1,8 @@
+# Ignore configuration files
+.vscode/
+
+# Ignore backup directories
+*_backup_*/
+
+# Ignore node_modules in subdirectories
+**/node_modules/

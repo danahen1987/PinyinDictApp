@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/MaShanZheng-Regular.ttf",
+      "sha1": "1376fdd48ab29afd9599101e8991b773f12177e5"
+    },
+    {
+      "path": "assets/fonts/SourceHanSansSC-Regular.otf",
+      "sha1": "d205cbd6783332a212c5ae92d73c77178c2d2f28"
+    }
+  ]
+}

@@ -1,97 +1,269 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# PinYinDict - Chinese Character Learning App
 
-# Getting Started
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0.80.12-blue.svg" alt="React Native Version">
+  <img src="https://img.shields.io/badge/Android-5.0%2B-green.svg" alt="Android Support">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+</div>
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## 🎯 **Overview**
 
-## Step 1: Start Metro
+PinYinDict is a comprehensive Chinese character learning application built with React Native. It provides an interactive platform for learning Chinese characters through practice, quizzes, and progress tracking.
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## ✨ **Features**
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+### 🎓 **Character Learning**
+- **1882 Chinese characters** with stroke order practice
+- **Interactive stroke practice** using Hanzi Writer
+- **Pinyin pronunciation** with Text-to-Speech
+- **Character meanings** and usage examples
 
-```sh
-# Using npm
-npm start
+### 📊 **Progress Tracking**
+- **User registration** and login system
+- **Progress indicators** with pie charts
+- **Viewed character tracking** with visual feedback
+- **Practice count** and learning statistics
 
-# OR using Yarn
-yarn start
+### 🧠 **Quiz Mode**
+- **Translation Quiz** - Character to English meaning
+- **Sentence Completion Quiz** - Fill in missing characters
+- **Randomized questions** from viewed characters
+- **Score calculation** and progress feedback
+
+### 🔧 **Admin Features**
+- **User management** system
+- **Admin panel** for viewing registered users
+- **Progress monitoring** capabilities
+
+### 📱 **Modern UI/UX**
+- **Responsive design** with scrolling support
+- **Clean, intuitive interface** with blue color scheme
+- **Progress visualization** with pie charts
+- **Smooth navigation** between features
+
+## 🚀 **Quick Start**
+
+### **Prerequisites**
+- Node.js (v14 or higher)
+- React Native CLI
+- Android Studio (for Android development)
+- Java Development Kit (JDK 11 or higher)
+
+### **Installation**
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/PinYinDict.git
+cd PinYinDict
+
+# Install dependencies
+npm install
+
+# Link assets
+npx react-native link
+
+# Start Metro bundler
+npx react-native start
+
+# Run on Android (in a new terminal)
+npx react-native run-android
 ```
 
-## Step 2: Build and run your app
+### **Standalone APK Installation**
+For users who want to install the app without development tools:
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+1. **Download the APK** from the releases section
+2. **Enable Unknown Sources** in Android settings
+3. **Install the APK** on your device
+4. **Launch the app** and start learning!
 
-### Android
+## 📱 **Screenshots**
 
-```sh
-# Using npm
-npm run android
+<div align="center">
+  <img src="screenshots/landing-page.png" alt="Landing Page" width="200">
+  <img src="screenshots/character-practice.png" alt="Character Practice" width="200">
+  <img src="screenshots/quiz-mode.png" alt="Quiz Mode" width="200">
+  <img src="screenshots/progress-tracking.png" alt="Progress Tracking" width="200">
+</div>
 
-# OR using Yarn
-yarn android
+## 🏗️ **Architecture**
+
+### **Frontend**
+- **React Native** - Cross-platform mobile development
+- **JavaScript** - Application logic and state management
+- **React Hooks** - State and lifecycle management
+- **Styled Components** - UI styling and theming
+
+### **Backend**
+- **SQLite** - Local database for character data and user progress
+- **React Native SQLite Storage** - Database integration
+- **Local Storage** - User preferences and settings
+
+### **Key Components**
+```
+src/
+├── components/          # UI components
+│   ├── LandingPage.js   # Main landing page
+│   ├── SimpleCharacterCard.js  # Character practice
+│   ├── QuizModePage.js  # Quiz functionality
+│   └── UserDetailsModal.js  # User management
+├── database/            # Database layer
+│   ├── DatabaseHelper.js  # Database operations
+│   └── DatabaseInitializer.js  # Database setup
+├── services/            # Business logic
+│   ├── AuthService.js   # Authentication
+│   ├── TTSService.js    # Text-to-Speech
+│   └── ProgressService.js  # Progress tracking
+└── styles/              # Styling
+    └── AppStyles.js     # Centralized styles
 ```
 
-### iOS
+## 📊 **Database Schema**
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+### **Characters Table**
+- `id` - Unique character identifier
+- `character` - Chinese character
+- `pinyin` - Pinyin pronunciation
+- `meaning` - English meaning
+- `stroke_data` - Stroke order information
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+### **Users Table**
+- `id` - Unique user identifier
+- `username` - User's username
+- `password` - Encrypted password
+- `viewed_count` - Number of characters viewed
+- `is_admin` - Admin privileges flag
 
-```sh
-bundle install
+### **User Progress Table**
+- `user_id` - Foreign key to users
+- `character_id` - Foreign key to characters
+- `viewed_at` - Timestamp of when character was viewed
+- `practice_count` - Number of times practiced
+
+## 🔧 **Development**
+
+### **Building for Production**
+```bash
+# Generate release APK
+cd android
+./gradlew assembleRelease
+
+# APK will be created at:
+# android/app/build/outputs/apk/release/app-release.apk
 ```
 
-Then, and every time you update your native dependencies, run:
+### **Database Management**
+```bash
+# Test database connection
+node simple-db-test.js
 
-```sh
-bundle exec pod install
+# Analyze character data
+node analyze-sentence-characters.js
 ```
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+### **Code Quality**
+- **ESLint** - Code linting and formatting
+- **Prettier** - Code formatting
+- **Clean Architecture** - Separation of concerns
+- **Error Handling** - Comprehensive error management
 
-```sh
-# Using npm
-npm run ios
+## 📈 **Performance**
 
-# OR using Yarn
-yarn ios
-```
+### **Optimizations**
+- **Code minification** for production builds
+- **Resource compression** for smaller APK size
+- **Lazy loading** for character data
+- **Efficient database queries** with indexing
+- **Memory management** for large datasets
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+### **APK Size**
+- **Release APK:** ~28MB
+- **Debug APK:** ~45MB
+- **Optimized for** multiple Android architectures
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+## 🧪 **Testing**
 
-## Step 3: Modify your app
+### **Manual Testing**
+- **Character Practice** - Stroke order and pronunciation
+- **Quiz Mode** - Translation and sentence completion
+- **User Management** - Registration and login
+- **Progress Tracking** - Data persistence and visualization
 
-Now that you have successfully run the app, let's make changes!
+### **Device Testing**
+- **Android 5.0+** - Primary target platform
+- **Multiple screen sizes** - Responsive design
+- **Different architectures** - ARM64, ARMv7, x86, x86_64
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+## 📚 **Data Sources**
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+### **Character Data**
+- **1882 Chinese characters** with comprehensive information
+- **Pinyin pronunciations** with tone marks
+- **English meanings** and usage examples
+- **Stroke order data** for practice
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+### **Sentence Data**
+- **Contextual sentences** for each character
+- **Pinyin translations** for pronunciation
+- **English translations** for understanding
 
-## Congratulations! :tada:
+## 🤝 **Contributing**
 
-You've successfully run and modified your React Native App. :partying_face:
+We welcome contributions! Please follow these steps:
 
-### Now what?
+1. **Fork the repository**
+2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
+3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
+4. **Push to the branch** (`git push origin feature/amazing-feature`)
+5. **Open a Pull Request**
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
+### **Development Guidelines**
+- Follow the existing code style
+- Add tests for new features
+- Update documentation as needed
+- Ensure all tests pass before submitting
 
-# Troubleshooting
+## 📄 **License**
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Learn More
+## 🙏 **Acknowledgments**
 
-To learn more about React Native, take a look at the following resources:
+- **React Native Community** for the excellent framework
+- **Chinese Language Resources** for character data
+- **Open Source Contributors** for various libraries used
+- **Beta Testers** for feedback and improvements
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## 📞 **Support**
+
+### **Getting Help**
+- **Issues** - Report bugs or request features
+- **Discussions** - Ask questions or share ideas
+- **Documentation** - Check the wiki for detailed guides
+
+### **Contact**
+- **Email:** your-email@example.com
+- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **Website:** [your-website.com](https://your-website.com)
+
+## 🎉 **Roadmap**
+
+### **Upcoming Features**
+- [ ] **iOS Support** - Native iOS app development
+- [ ] **Cloud Sync** - User progress synchronization
+- [ ] **Advanced Analytics** - Learning progress insights
+- [ ] **Social Features** - User communities and sharing
+- [ ] **Offline Mode** - Complete offline functionality
+- [ ] **Voice Recognition** - Pronunciation practice
+
+### **Version History**
+- **v1.0** - Initial release with core features
+- **v1.1** - Style cleanup and centralization
+- **v1.2** - Clean logs version and performance improvements
+
+---
+
+<div align="center">
+  <p><strong>🎓 Start learning Chinese characters today!</strong></p>
+  <p>Built with ❤️ using React Native</p>
+</div>

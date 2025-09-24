@@ -1,0 +1,4940 @@
+{
+  "timestamp": "2025-09-23T17:47:18.281Z",
+  "totalCharacters": 822,
+  "foundInExisting": 0,
+  "needLookup": 822,
+  "characters": [
+    {
+      "index": 1,
+      "character": "一",
+      "pinyin": "[PINYIN_FOR_一]",
+      "needsLookup": true
+    },
+    {
+      "index": 2,
+      "character": "七",
+      "pinyin": "[PINYIN_FOR_七]",
+      "needsLookup": true
+    },
+    {
+      "index": 3,
+      "character": "三",
+      "pinyin": "[PINYIN_FOR_三]",
+      "needsLookup": true
+    },
+    {
+      "index": 4,
+      "character": "不",
+      "pinyin": "[PINYIN_FOR_不]",
+      "needsLookup": true
+    },
+    {
+      "index": 5,
+      "character": "专",
+      "pinyin": "[PINYIN_FOR_专]",
+      "needsLookup": true
+    },
+    {
+      "index": 6,
+      "character": "且",
+      "pinyin": "[PINYIN_FOR_且]",
+      "needsLookup": true
+    },
+    {
+      "index": 7,
+      "character": "世",
+      "pinyin": "[PINYIN_FOR_世]",
+      "needsLookup": true
+    },
+    {
+      "index": 8,
+      "character": "业",
+      "pinyin": "[PINYIN_FOR_业]",
+      "needsLookup": true
+    },
+    {
+      "index": 9,
+      "character": "东",
+      "pinyin": "[PINYIN_FOR_东]",
+      "needsLookup": true
+    },
+    {
+      "index": 10,
+      "character": "丝",
+      "pinyin": "[PINYIN_FOR_丝]",
+      "needsLookup": true
+    },
+    {
+      "index": 11,
+      "character": "两",
+      "pinyin": "[PINYIN_FOR_两]",
+      "needsLookup": true
+    },
+    {
+      "index": 12,
+      "character": "个",
+      "pinyin": "[PINYIN_FOR_个]",
+      "needsLookup": true
+    },
+    {
+      "index": 13,
+      "character": "丰",
+      "pinyin": "[PINYIN_FOR_丰]",
+      "needsLookup": true
+    },
+    {
+      "index": 14,
+      "character": "临",
+      "pinyin": "[PINYIN_FOR_临]",
+      "needsLookup": true
+    },
+    {
+      "index": 15,
+      "character": "为",
+      "pinyin": "[PINYIN_FOR_为]",
+      "needsLookup": true
+    },
+    {
+      "index": 16,
+      "character": "主",
+      "pinyin": "[PINYIN_FOR_主]",
+      "needsLookup": true
+    },
+    {
+      "index": 17,
+      "character": "丽",
+      "pinyin": "[PINYIN_FOR_丽]",
+      "needsLookup": true
+    },
+    {
+      "index": 18,
+      "character": "久",
+      "pinyin": "[PINYIN_FOR_久]",
+      "needsLookup": true
+    },
+    {
+      "index": 19,
+      "character": "么",
+      "pinyin": "[PINYIN_FOR_么]",
+      "needsLookup": true
+    },
+    {
+      "index": 20,
+      "character": "之",
+      "pinyin": "[PINYIN_FOR_之]",
+      "needsLookup": true
+    },
+    {
+      "index": 21,
+      "character": "乐",
+      "pinyin": "[PINYIN_FOR_乐]",
+      "needsLookup": true
+    },
+    {
+      "index": 22,
+      "character": "九",
+      "pinyin": "[PINYIN_FOR_九]",
+      "needsLookup": true
+    },
+    {
+      "index": 23,
+      "character": "也",
+      "pinyin": "[PINYIN_FOR_也]",
+      "needsLookup": true
+    },
+    {
+      "index": 24,
+      "character": "习",
+      "pinyin": "[PINYIN_FOR_习]",
+      "needsLookup": true
+    },
+    {
+      "index": 25,
+      "character": "乡",
+      "pinyin": "[PINYIN_FOR_乡]",
+      "needsLookup": true
+    },
+    {
+      "index": 26,
+      "character": "买",
+      "pinyin": "[PINYIN_FOR_买]",
+      "needsLookup": true
+    },
+    {
+      "index": 27,
+      "character": "争",
+      "pinyin": "[PINYIN_FOR_争]",
+      "needsLookup": true
+    },
+    {
+      "index": 28,
+      "character": "事",
+      "pinyin": "[PINYIN_FOR_事]",
+      "needsLookup": true
+    },
+    {
+      "index": 29,
+      "character": "二",
+      "pinyin": "[PINYIN_FOR_二]",
+      "needsLookup": true
+    },
+    {
+      "index": 30,
+      "character": "于",
+      "pinyin": "[PINYIN_FOR_于]",
+      "needsLookup": true
+    },
+    {
+      "index": 31,
+      "character": "互",
+      "pinyin": "[PINYIN_FOR_互]",
+      "needsLookup": true
+    },
+    {
+      "index": 32,
+      "character": "五",
+      "pinyin": "[PINYIN_FOR_五]",
+      "needsLookup": true
+    },
+    {
+      "index": 33,
+      "character": "些",
+      "pinyin": "[PINYIN_FOR_些]",
+      "needsLookup": true
+    },
+    {
+      "index": 34,
+      "character": "交",
+      "pinyin": "[PINYIN_FOR_交]",
+      "needsLookup": true
+    },
+    {
+      "index": 35,
+      "character": "产",
+      "pinyin": "[PINYIN_FOR_产]",
+      "needsLookup": true
+    },
+    {
+      "index": 36,
+      "character": "京",
+      "pinyin": "[PINYIN_FOR_京]",
+      "needsLookup": true
+    },
+    {
+      "index": 37,
+      "character": "亮",
+      "pinyin": "[PINYIN_FOR_亮]",
+      "needsLookup": true
+    },
+    {
+      "index": 38,
+      "character": "亲",
+      "pinyin": "[PINYIN_FOR_亲]",
+      "needsLookup": true
+    },
+    {
+      "index": 39,
+      "character": "人",
+      "pinyin": "[PINYIN_FOR_人]",
+      "needsLookup": true
+    },
+    {
+      "index": 40,
+      "character": "什",
+      "pinyin": "[PINYIN_FOR_什]",
+      "needsLookup": true
+    },
+    {
+      "index": 41,
+      "character": "仅",
+      "pinyin": "[PINYIN_FOR_仅]",
+      "needsLookup": true
+    },
+    {
+      "index": 42,
+      "character": "今",
+      "pinyin": "[PINYIN_FOR_今]",
+      "needsLookup": true
+    },
+    {
+      "index": 43,
+      "character": "介",
+      "pinyin": "[PINYIN_FOR_介]",
+      "needsLookup": true
+    },
+    {
+      "index": 44,
+      "character": "从",
+      "pinyin": "[PINYIN_FOR_从]",
+      "needsLookup": true
+    },
+    {
+      "index": 45,
+      "character": "仔",
+      "pinyin": "[PINYIN_FOR_仔]",
+      "needsLookup": true
+    },
+    {
+      "index": 46,
+      "character": "他",
+      "pinyin": "[PINYIN_FOR_他]",
+      "needsLookup": true
+    },
+    {
+      "index": 47,
+      "character": "仙",
+      "pinyin": "[PINYIN_FOR_仙]",
+      "needsLookup": true
+    },
+    {
+      "index": 48,
+      "character": "代",
+      "pinyin": "[PINYIN_FOR_代]",
+      "needsLookup": true
+    },
+    {
+      "index": 49,
+      "character": "以",
+      "pinyin": "[PINYIN_FOR_以]",
+      "needsLookup": true
+    },
+    {
+      "index": 50,
+      "character": "们",
+      "pinyin": "[PINYIN_FOR_们]",
+      "needsLookup": true
+    },
+    {
+      "index": 51,
+      "character": "件",
+      "pinyin": "[PINYIN_FOR_件]",
+      "needsLookup": true
+    },
+    {
+      "index": 52,
+      "character": "价",
+      "pinyin": "[PINYIN_FOR_价]",
+      "needsLookup": true
+    },
+    {
+      "index": 53,
+      "character": "任",
+      "pinyin": "[PINYIN_FOR_任]",
+      "needsLookup": true
+    },
+    {
+      "index": 54,
+      "character": "份",
+      "pinyin": "[PINYIN_FOR_份]",
+      "needsLookup": true
+    },
+    {
+      "index": 55,
+      "character": "企",
+      "pinyin": "[PINYIN_FOR_企]",
+      "needsLookup": true
+    },
+    {
+      "index": 56,
+      "character": "休",
+      "pinyin": "[PINYIN_FOR_休]",
+      "needsLookup": true
+    },
+    {
+      "index": 57,
+      "character": "优",
+      "pinyin": "[PINYIN_FOR_优]",
+      "needsLookup": true
+    },
+    {
+      "index": 58,
+      "character": "伙",
+      "pinyin": "[PINYIN_FOR_伙]",
+      "needsLookup": true
+    },
+    {
+      "index": 59,
+      "character": "会",
+      "pinyin": "[PINYIN_FOR_会]",
+      "needsLookup": true
+    },
+    {
+      "index": 60,
+      "character": "伟",
+      "pinyin": "[PINYIN_FOR_伟]",
+      "needsLookup": true
+    },
+    {
+      "index": 61,
+      "character": "传",
+      "pinyin": "[PINYIN_FOR_传]",
+      "needsLookup": true
+    },
+    {
+      "index": 62,
+      "character": "似",
+      "pinyin": "[PINYIN_FOR_似]",
+      "needsLookup": true
+    },
+    {
+      "index": 63,
+      "character": "但",
+      "pinyin": "[PINYIN_FOR_但]",
+      "needsLookup": true
+    },
+    {
+      "index": 64,
+      "character": "位",
+      "pinyin": "[PINYIN_FOR_位]",
+      "needsLookup": true
+    },
+    {
+      "index": 65,
+      "character": "住",
+      "pinyin": "[PINYIN_FOR_住]",
+      "needsLookup": true
+    },
+    {
+      "index": 66,
+      "character": "体",
+      "pinyin": "[PINYIN_FOR_体]",
+      "needsLookup": true
+    },
+    {
+      "index": 67,
+      "character": "何",
+      "pinyin": "[PINYIN_FOR_何]",
+      "needsLookup": true
+    },
+    {
+      "index": 68,
+      "character": "作",
+      "pinyin": "[PINYIN_FOR_作]",
+      "needsLookup": true
+    },
+    {
+      "index": 69,
+      "character": "你",
+      "pinyin": "[PINYIN_FOR_你]",
+      "needsLookup": true
+    },
+    {
+      "index": 70,
+      "character": "使",
+      "pinyin": "[PINYIN_FOR_使]",
+      "needsLookup": true
+    },
+    {
+      "index": 71,
+      "character": "供",
+      "pinyin": "[PINYIN_FOR_供]",
+      "needsLookup": true
+    },
+    {
+      "index": 72,
+      "character": "便",
+      "pinyin": "[PINYIN_FOR_便]",
+      "needsLookup": true
+    },
+    {
+      "index": 73,
+      "character": "俑",
+      "pinyin": "[PINYIN_FOR_俑]",
+      "needsLookup": true
+    },
+    {
+      "index": 74,
+      "character": "俗",
+      "pinyin": "[PINYIN_FOR_俗]",
+      "needsLookup": true
+    },
+    {
+      "index": 75,
+      "character": "保",
+      "pinyin": "[PINYIN_FOR_保]",
+      "needsLookup": true
+    },
+    {
+      "index": 76,
+      "character": "信",
+      "pinyin": "[PINYIN_FOR_信]",
+      "needsLookup": true
+    },
+    {
+      "index": 77,
+      "character": "候",
+      "pinyin": "[PINYIN_FOR_候]",
+      "needsLookup": true
+    },
+    {
+      "index": 78,
+      "character": "假",
+      "pinyin": "[PINYIN_FOR_假]",
+      "needsLookup": true
+    },
+    {
+      "index": 79,
+      "character": "健",
+      "pinyin": "[PINYIN_FOR_健]",
+      "needsLookup": true
+    },
+    {
+      "index": 80,
+      "character": "傅",
+      "pinyin": "[PINYIN_FOR_傅]",
+      "needsLookup": true
+    },
+    {
+      "index": 81,
+      "character": "傲",
+      "pinyin": "[PINYIN_FOR_傲]",
+      "needsLookup": true
+    },
+    {
+      "index": 82,
+      "character": "像",
+      "pinyin": "[PINYIN_FOR_像]",
+      "needsLookup": true
+    },
+    {
+      "index": 83,
+      "character": "儿",
+      "pinyin": "[PINYIN_FOR_儿]",
+      "needsLookup": true
+    },
+    {
+      "index": 84,
+      "character": "元",
+      "pinyin": "[PINYIN_FOR_元]",
+      "needsLookup": true
+    },
+    {
+      "index": 85,
+      "character": "兑",
+      "pinyin": "[PINYIN_FOR_兑]",
+      "needsLookup": true
+    },
+    {
+      "index": 86,
+      "character": "全",
+      "pinyin": "[PINYIN_FOR_全]",
+      "needsLookup": true
+    },
+    {
+      "index": 87,
+      "character": "八",
+      "pinyin": "[PINYIN_FOR_八]",
+      "needsLookup": true
+    },
+    {
+      "index": 88,
+      "character": "公",
+      "pinyin": "[PINYIN_FOR_公]",
+      "needsLookup": true
+    },
+    {
+      "index": 89,
+      "character": "关",
+      "pinyin": "[PINYIN_FOR_关]",
+      "needsLookup": true
+    },
+    {
+      "index": 90,
+      "character": "兴",
+      "pinyin": "[PINYIN_FOR_兴]",
+      "needsLookup": true
+    },
+    {
+      "index": 91,
+      "character": "兵",
+      "pinyin": "[PINYIN_FOR_兵]",
+      "needsLookup": true
+    },
+    {
+      "index": 92,
+      "character": "其",
+      "pinyin": "[PINYIN_FOR_其]",
+      "needsLookup": true
+    },
+    {
+      "index": 93,
+      "character": "典",
+      "pinyin": "[PINYIN_FOR_典]",
+      "needsLookup": true
+    },
+    {
+      "index": 94,
+      "character": "再",
+      "pinyin": "[PINYIN_FOR_再]",
+      "needsLookup": true
+    },
+    {
+      "index": 95,
+      "character": "冒",
+      "pinyin": "[PINYIN_FOR_冒]",
+      "needsLookup": true
+    },
+    {
+      "index": 96,
+      "character": "写",
+      "pinyin": "[PINYIN_FOR_写]",
+      "needsLookup": true
+    },
+    {
+      "index": 97,
+      "character": "农",
+      "pinyin": "[PINYIN_FOR_农]",
+      "needsLookup": true
+    },
+    {
+      "index": 98,
+      "character": "冬",
+      "pinyin": "[PINYIN_FOR_冬]",
+      "needsLookup": true
+    },
+    {
+      "index": 99,
+      "character": "冰",
+      "pinyin": "[PINYIN_FOR_冰]",
+      "needsLookup": true
+    },
+    {
+      "index": 100,
+      "character": "决",
+      "pinyin": "[PINYIN_FOR_决]",
+      "needsLookup": true
+    },
+    {
+      "index": 101,
+      "character": "况",
+      "pinyin": "[PINYIN_FOR_况]",
+      "needsLookup": true
+    },
+    {
+      "index": 102,
+      "character": "准",
+      "pinyin": "[PINYIN_FOR_准]",
+      "needsLookup": true
+    },
+    {
+      "index": 103,
+      "character": "几",
+      "pinyin": "[PINYIN_FOR_几]",
+      "needsLookup": true
+    },
+    {
+      "index": 104,
+      "character": "出",
+      "pinyin": "[PINYIN_FOR_出]",
+      "needsLookup": true
+    },
+    {
+      "index": 105,
+      "character": "划",
+      "pinyin": "[PINYIN_FOR_划]",
+      "needsLookup": true
+    },
+    {
+      "index": 106,
+      "character": "列",
+      "pinyin": "[PINYIN_FOR_列]",
+      "needsLookup": true
+    },
+    {
+      "index": 107,
+      "character": "则",
+      "pinyin": "[PINYIN_FOR_则]",
+      "needsLookup": true
+    },
+    {
+      "index": 108,
+      "character": "刚",
+      "pinyin": "[PINYIN_FOR_刚]",
+      "needsLookup": true
+    },
+    {
+      "index": 109,
+      "character": "利",
+      "pinyin": "[PINYIN_FOR_利]",
+      "needsLookup": true
+    },
+    {
+      "index": 110,
+      "character": "别",
+      "pinyin": "[PINYIN_FOR_别]",
+      "needsLookup": true
+    },
+    {
+      "index": 111,
+      "character": "到",
+      "pinyin": "[PINYIN_FOR_到]",
+      "needsLookup": true
+    },
+    {
+      "index": 112,
+      "character": "前",
+      "pinyin": "[PINYIN_FOR_前]",
+      "needsLookup": true
+    },
+    {
+      "index": 113,
+      "character": "剧",
+      "pinyin": "[PINYIN_FOR_剧]",
+      "needsLookup": true
+    },
+    {
+      "index": 114,
+      "character": "力",
+      "pinyin": "[PINYIN_FOR_力]",
+      "needsLookup": true
+    },
+    {
+      "index": 115,
+      "character": "功",
+      "pinyin": "[PINYIN_FOR_功]",
+      "needsLookup": true
+    },
+    {
+      "index": 116,
+      "character": "务",
+      "pinyin": "[PINYIN_FOR_务]",
+      "needsLookup": true
+    },
+    {
+      "index": 117,
+      "character": "助",
+      "pinyin": "[PINYIN_FOR_助]",
+      "needsLookup": true
+    },
+    {
+      "index": 118,
+      "character": "努",
+      "pinyin": "[PINYIN_FOR_努]",
+      "needsLookup": true
+    },
+    {
+      "index": 119,
+      "character": "劳",
+      "pinyin": "[PINYIN_FOR_劳]",
+      "needsLookup": true
+    },
+    {
+      "index": 120,
+      "character": "包",
+      "pinyin": "[PINYIN_FOR_包]",
+      "needsLookup": true
+    },
+    {
+      "index": 121,
+      "character": "化",
+      "pinyin": "[PINYIN_FOR_化]",
+      "needsLookup": true
+    },
+    {
+      "index": 122,
+      "character": "北",
+      "pinyin": "[PINYIN_FOR_北]",
+      "needsLookup": true
+    },
+    {
+      "index": 123,
+      "character": "匙",
+      "pinyin": "[PINYIN_FOR_匙]",
+      "needsLookup": true
+    },
+    {
+      "index": 124,
+      "character": "医",
+      "pinyin": "[PINYIN_FOR_医]",
+      "needsLookup": true
+    },
+    {
+      "index": 125,
+      "character": "十",
+      "pinyin": "[PINYIN_FOR_十]",
+      "needsLookup": true
+    },
+    {
+      "index": 126,
+      "character": "午",
+      "pinyin": "[PINYIN_FOR_午]",
+      "needsLookup": true
+    },
+    {
+      "index": 127,
+      "character": "半",
+      "pinyin": "[PINYIN_FOR_半]",
+      "needsLookup": true
+    },
+    {
+      "index": 128,
+      "character": "协",
+      "pinyin": "[PINYIN_FOR_协]",
+      "needsLookup": true
+    },
+    {
+      "index": 129,
+      "character": "南",
+      "pinyin": "[PINYIN_FOR_南]",
+      "needsLookup": true
+    },
+    {
+      "index": 130,
+      "character": "博",
+      "pinyin": "[PINYIN_FOR_博]",
+      "needsLookup": true
+    },
+    {
+      "index": 131,
+      "character": "卡",
+      "pinyin": "[PINYIN_FOR_卡]",
+      "needsLookup": true
+    },
+    {
+      "index": 132,
+      "character": "卦",
+      "pinyin": "[PINYIN_FOR_卦]",
+      "needsLookup": true
+    },
+    {
+      "index": 133,
+      "character": "卧",
+      "pinyin": "[PINYIN_FOR_卧]",
+      "needsLookup": true
+    },
+    {
+      "index": 134,
+      "character": "卫",
+      "pinyin": "[PINYIN_FOR_卫]",
+      "needsLookup": true
+    },
+    {
+      "index": 135,
+      "character": "印",
+      "pinyin": "[PINYIN_FOR_印]",
+      "needsLookup": true
+    },
+    {
+      "index": 136,
+      "character": "危",
+      "pinyin": "[PINYIN_FOR_危]",
+      "needsLookup": true
+    },
+    {
+      "index": 137,
+      "character": "即",
+      "pinyin": "[PINYIN_FOR_即]",
+      "needsLookup": true
+    },
+    {
+      "index": 138,
+      "character": "卷",
+      "pinyin": "[PINYIN_FOR_卷]",
+      "needsLookup": true
+    },
+    {
+      "index": 139,
+      "character": "厂",
+      "pinyin": "[PINYIN_FOR_厂]",
+      "needsLookup": true
+    },
+    {
+      "index": 140,
+      "character": "历",
+      "pinyin": "[PINYIN_FOR_历]",
+      "needsLookup": true
+    },
+    {
+      "index": 141,
+      "character": "原",
+      "pinyin": "[PINYIN_FOR_原]",
+      "needsLookup": true
+    },
+    {
+      "index": 142,
+      "character": "去",
+      "pinyin": "[PINYIN_FOR_去]",
+      "needsLookup": true
+    },
+    {
+      "index": 143,
+      "character": "参",
+      "pinyin": "[PINYIN_FOR_参]",
+      "needsLookup": true
+    },
+    {
+      "index": 144,
+      "character": "及",
+      "pinyin": "[PINYIN_FOR_及]",
+      "needsLookup": true
+    },
+    {
+      "index": 145,
+      "character": "友",
+      "pinyin": "[PINYIN_FOR_友]",
+      "needsLookup": true
+    },
+    {
+      "index": 146,
+      "character": "反",
+      "pinyin": "[PINYIN_FOR_反]",
+      "needsLookup": true
+    },
+    {
+      "index": 147,
+      "character": "发",
+      "pinyin": "[PINYIN_FOR_发]",
+      "needsLookup": true
+    },
+    {
+      "index": 148,
+      "character": "叔",
+      "pinyin": "[PINYIN_FOR_叔]",
+      "needsLookup": true
+    },
+    {
+      "index": 149,
+      "character": "口",
+      "pinyin": "[PINYIN_FOR_口]",
+      "needsLookup": true
+    },
+    {
+      "index": 150,
+      "character": "古",
+      "pinyin": "[PINYIN_FOR_古]",
+      "needsLookup": true
+    },
+    {
+      "index": 151,
+      "character": "另",
+      "pinyin": "[PINYIN_FOR_另]",
+      "needsLookup": true
+    },
+    {
+      "index": 152,
+      "character": "史",
+      "pinyin": "[PINYIN_FOR_史]",
+      "needsLookup": true
+    },
+    {
+      "index": 153,
+      "character": "右",
+      "pinyin": "[PINYIN_FOR_右]",
+      "needsLookup": true
+    },
+    {
+      "index": 154,
+      "character": "叶",
+      "pinyin": "[PINYIN_FOR_叶]",
+      "needsLookup": true
+    },
+    {
+      "index": 155,
+      "character": "号",
+      "pinyin": "[PINYIN_FOR_号]",
+      "needsLookup": true
+    },
+    {
+      "index": 156,
+      "character": "司",
+      "pinyin": "[PINYIN_FOR_司]",
+      "needsLookup": true
+    },
+    {
+      "index": 157,
+      "character": "吃",
+      "pinyin": "[PINYIN_FOR_吃]",
+      "needsLookup": true
+    },
+    {
+      "index": 158,
+      "character": "各",
+      "pinyin": "[PINYIN_FOR_各]",
+      "needsLookup": true
+    },
+    {
+      "index": 159,
+      "character": "合",
+      "pinyin": "[PINYIN_FOR_合]",
+      "needsLookup": true
+    },
+    {
+      "index": 160,
+      "character": "吉",
+      "pinyin": "[PINYIN_FOR_吉]",
+      "needsLookup": true
+    },
+    {
+      "index": 161,
+      "character": "同",
+      "pinyin": "[PINYIN_FOR_同]",
+      "needsLookup": true
+    },
+    {
+      "index": 162,
+      "character": "名",
+      "pinyin": "[PINYIN_FOR_名]",
+      "needsLookup": true
+    },
+    {
+      "index": 163,
+      "character": "后",
+      "pinyin": "[PINYIN_FOR_后]",
+      "needsLookup": true
+    },
+    {
+      "index": 164,
+      "character": "吗",
+      "pinyin": "[PINYIN_FOR_吗]",
+      "needsLookup": true
+    },
+    {
+      "index": 165,
+      "character": "吧",
+      "pinyin": "[PINYIN_FOR_吧]",
+      "needsLookup": true
+    },
+    {
+      "index": 166,
+      "character": "听",
+      "pinyin": "[PINYIN_FOR_听]",
+      "needsLookup": true
+    },
+    {
+      "index": 167,
+      "character": "吸",
+      "pinyin": "[PINYIN_FOR_吸]",
+      "needsLookup": true
+    },
+    {
+      "index": 168,
+      "character": "呀",
+      "pinyin": "[PINYIN_FOR_呀]",
+      "needsLookup": true
+    },
+    {
+      "index": 169,
+      "character": "告",
+      "pinyin": "[PINYIN_FOR_告]",
+      "needsLookup": true
+    },
+    {
+      "index": 170,
+      "character": "员",
+      "pinyin": "[PINYIN_FOR_员]",
+      "needsLookup": true
+    },
+    {
+      "index": 171,
+      "character": "呢",
+      "pinyin": "[PINYIN_FOR_呢]",
+      "needsLookup": true
+    },
+    {
+      "index": 172,
+      "character": "命",
+      "pinyin": "[PINYIN_FOR_命]",
+      "needsLookup": true
+    },
+    {
+      "index": 173,
+      "character": "和",
+      "pinyin": "[PINYIN_FOR_和]",
+      "needsLookup": true
+    },
+    {
+      "index": 174,
+      "character": "咖",
+      "pinyin": "[PINYIN_FOR_咖]",
+      "needsLookup": true
+    },
+    {
+      "index": 175,
+      "character": "咱",
+      "pinyin": "[PINYIN_FOR_咱]",
+      "needsLookup": true
+    },
+    {
+      "index": 176,
+      "character": "品",
+      "pinyin": "[PINYIN_FOR_品]",
+      "needsLookup": true
+    },
+    {
+      "index": 177,
+      "character": "哈",
+      "pinyin": "[PINYIN_FOR_哈]",
+      "needsLookup": true
+    },
+    {
+      "index": 178,
+      "character": "响",
+      "pinyin": "[PINYIN_FOR_响]",
+      "needsLookup": true
+    },
+    {
+      "index": 179,
+      "character": "哎",
+      "pinyin": "[PINYIN_FOR_哎]",
+      "needsLookup": true
+    },
+    {
+      "index": 180,
+      "character": "哥",
+      "pinyin": "[PINYIN_FOR_哥]",
+      "needsLookup": true
+    },
+    {
+      "index": 181,
+      "character": "哪",
+      "pinyin": "[PINYIN_FOR_哪]",
+      "needsLookup": true
+    },
+    {
+      "index": 182,
+      "character": "哲",
+      "pinyin": "[PINYIN_FOR_哲]",
+      "needsLookup": true
+    },
+    {
+      "index": 183,
+      "character": "唱",
+      "pinyin": "[PINYIN_FOR_唱]",
+      "needsLookup": true
+    },
+    {
+      "index": 184,
+      "character": "商",
+      "pinyin": "[PINYIN_FOR_商]",
+      "needsLookup": true
+    },
+    {
+      "index": 185,
+      "character": "啡",
+      "pinyin": "[PINYIN_FOR_啡]",
+      "needsLookup": true
+    },
+    {
+      "index": 186,
+      "character": "喘",
+      "pinyin": "[PINYIN_FOR_喘]",
+      "needsLookup": true
+    },
+    {
+      "index": 187,
+      "character": "嗽",
+      "pinyin": "[PINYIN_FOR_嗽]",
+      "needsLookup": true
+    },
+    {
+      "index": 188,
+      "character": "嘴",
+      "pinyin": "[PINYIN_FOR_嘴]",
+      "needsLookup": true
+    },
+    {
+      "index": 189,
+      "character": "器",
+      "pinyin": "[PINYIN_FOR_器]",
+      "needsLookup": true
+    },
+    {
+      "index": 190,
+      "character": "四",
+      "pinyin": "[PINYIN_FOR_四]",
+      "needsLookup": true
+    },
+    {
+      "index": 191,
+      "character": "回",
+      "pinyin": "[PINYIN_FOR_回]",
+      "needsLookup": true
+    },
+    {
+      "index": 192,
+      "character": "因",
+      "pinyin": "[PINYIN_FOR_因]",
+      "needsLookup": true
+    },
+    {
+      "index": 193,
+      "character": "团",
+      "pinyin": "[PINYIN_FOR_团]",
+      "needsLookup": true
+    },
+    {
+      "index": 194,
+      "character": "园",
+      "pinyin": "[PINYIN_FOR_园]",
+      "needsLookup": true
+    },
+    {
+      "index": 195,
+      "character": "困",
+      "pinyin": "[PINYIN_FOR_困]",
+      "needsLookup": true
+    },
+    {
+      "index": 196,
+      "character": "国",
+      "pinyin": "[PINYIN_FOR_国]",
+      "needsLookup": true
+    },
+    {
+      "index": 197,
+      "character": "图",
+      "pinyin": "[PINYIN_FOR_图]",
+      "needsLookup": true
+    },
+    {
+      "index": 198,
+      "character": "圈",
+      "pinyin": "[PINYIN_FOR_圈]",
+      "needsLookup": true
+    },
+    {
+      "index": 199,
+      "character": "土",
+      "pinyin": "[PINYIN_FOR_土]",
+      "needsLookup": true
+    },
+    {
+      "index": 200,
+      "character": "在",
+      "pinyin": "[PINYIN_FOR_在]",
+      "needsLookup": true
+    },
+    {
+      "index": 201,
+      "character": "场",
+      "pinyin": "[PINYIN_FOR_场]",
+      "needsLookup": true
+    },
+    {
+      "index": 202,
+      "character": "圾",
+      "pinyin": "[PINYIN_FOR_圾]",
+      "needsLookup": true
+    },
+    {
+      "index": 203,
+      "character": "址",
+      "pinyin": "[PINYIN_FOR_址]",
+      "needsLookup": true
+    },
+    {
+      "index": 204,
+      "character": "均",
+      "pinyin": "[PINYIN_FOR_均]",
+      "needsLookup": true
+    },
+    {
+      "index": 205,
+      "character": "坐",
+      "pinyin": "[PINYIN_FOR_坐]",
+      "needsLookup": true
+    },
+    {
+      "index": 206,
+      "character": "块",
+      "pinyin": "[PINYIN_FOR_块]",
+      "needsLookup": true
+    },
+    {
+      "index": 207,
+      "character": "坚",
+      "pinyin": "[PINYIN_FOR_坚]",
+      "needsLookup": true
+    },
+    {
+      "index": 208,
+      "character": "垃",
+      "pinyin": "[PINYIN_FOR_垃]",
+      "needsLookup": true
+    },
+    {
+      "index": 209,
+      "character": "基",
+      "pinyin": "[PINYIN_FOR_基]",
+      "needsLookup": true
+    },
+    {
+      "index": 210,
+      "character": "堂",
+      "pinyin": "[PINYIN_FOR_堂]",
+      "needsLookup": true
+    },
+    {
+      "index": 211,
+      "character": "堵",
+      "pinyin": "[PINYIN_FOR_堵]",
+      "needsLookup": true
+    },
+    {
+      "index": 212,
+      "character": "境",
+      "pinyin": "[PINYIN_FOR_境]",
+      "needsLookup": true
+    },
+    {
+      "index": 213,
+      "character": "墙",
+      "pinyin": "[PINYIN_FOR_墙]",
+      "needsLookup": true
+    },
+    {
+      "index": 214,
+      "character": "增",
+      "pinyin": "[PINYIN_FOR_增]",
+      "needsLookup": true
+    },
+    {
+      "index": 215,
+      "character": "壁",
+      "pinyin": "[PINYIN_FOR_壁]",
+      "needsLookup": true
+    },
+    {
+      "index": 216,
+      "character": "士",
+      "pinyin": "[PINYIN_FOR_士]",
+      "needsLookup": true
+    },
+    {
+      "index": 217,
+      "character": "处",
+      "pinyin": "[PINYIN_FOR_处]",
+      "needsLookup": true
+    },
+    {
+      "index": 218,
+      "character": "备",
+      "pinyin": "[PINYIN_FOR_备]",
+      "needsLookup": true
+    },
+    {
+      "index": 219,
+      "character": "复",
+      "pinyin": "[PINYIN_FOR_复]",
+      "needsLookup": true
+    },
+    {
+      "index": 220,
+      "character": "外",
+      "pinyin": "[PINYIN_FOR_外]",
+      "needsLookup": true
+    },
+    {
+      "index": 221,
+      "character": "多",
+      "pinyin": "[PINYIN_FOR_多]",
+      "needsLookup": true
+    },
+    {
+      "index": 222,
+      "character": "天",
+      "pinyin": "[PINYIN_FOR_天]",
+      "needsLookup": true
+    },
+    {
+      "index": 223,
+      "character": "太",
+      "pinyin": "[PINYIN_FOR_太]",
+      "needsLookup": true
+    },
+    {
+      "index": 224,
+      "character": "夫",
+      "pinyin": "[PINYIN_FOR_夫]",
+      "needsLookup": true
+    },
+    {
+      "index": 225,
+      "character": "失",
+      "pinyin": "[PINYIN_FOR_失]",
+      "needsLookup": true
+    },
+    {
+      "index": 226,
+      "character": "头",
+      "pinyin": "[PINYIN_FOR_头]",
+      "needsLookup": true
+    },
+    {
+      "index": 227,
+      "character": "奇",
+      "pinyin": "[PINYIN_FOR_奇]",
+      "needsLookup": true
+    },
+    {
+      "index": 228,
+      "character": "奏",
+      "pinyin": "[PINYIN_FOR_奏]",
+      "needsLookup": true
+    },
+    {
+      "index": 229,
+      "character": "奖",
+      "pinyin": "[PINYIN_FOR_奖]",
+      "needsLookup": true
+    },
+    {
+      "index": 230,
+      "character": "女",
+      "pinyin": "[PINYIN_FOR_女]",
+      "needsLookup": true
+    },
+    {
+      "index": 231,
+      "character": "奶",
+      "pinyin": "[PINYIN_FOR_奶]",
+      "needsLookup": true
+    },
+    {
+      "index": 232,
+      "character": "她",
+      "pinyin": "[PINYIN_FOR_她]",
+      "needsLookup": true
+    },
+    {
+      "index": 233,
+      "character": "好",
+      "pinyin": "[PINYIN_FOR_好]",
+      "needsLookup": true
+    },
+    {
+      "index": 234,
+      "character": "如",
+      "pinyin": "[PINYIN_FOR_如]",
+      "needsLookup": true
+    },
+    {
+      "index": 235,
+      "character": "妈",
+      "pinyin": "[PINYIN_FOR_妈]",
+      "needsLookup": true
+    },
+    {
+      "index": 236,
+      "character": "妹",
+      "pinyin": "[PINYIN_FOR_妹]",
+      "needsLookup": true
+    },
+    {
+      "index": 237,
+      "character": "妻",
+      "pinyin": "[PINYIN_FOR_妻]",
+      "needsLookup": true
+    },
+    {
+      "index": 238,
+      "character": "始",
+      "pinyin": "[PINYIN_FOR_始]",
+      "needsLookup": true
+    },
+    {
+      "index": 239,
+      "character": "姐",
+      "pinyin": "[PINYIN_FOR_姐]",
+      "needsLookup": true
+    },
+    {
+      "index": 240,
+      "character": "姓",
+      "pinyin": "[PINYIN_FOR_姓]",
+      "needsLookup": true
+    },
+    {
+      "index": 241,
+      "character": "姨",
+      "pinyin": "[PINYIN_FOR_姨]",
+      "needsLookup": true
+    },
+    {
+      "index": 242,
+      "character": "娘",
+      "pinyin": "[PINYIN_FOR_娘]",
+      "needsLookup": true
+    },
+    {
+      "index": 243,
+      "character": "婆",
+      "pinyin": "[PINYIN_FOR_婆]",
+      "needsLookup": true
+    },
+    {
+      "index": 244,
+      "character": "婚",
+      "pinyin": "[PINYIN_FOR_婚]",
+      "needsLookup": true
+    },
+    {
+      "index": 245,
+      "character": "子",
+      "pinyin": "[PINYIN_FOR_子]",
+      "needsLookup": true
+    },
+    {
+      "index": 246,
+      "character": "孔",
+      "pinyin": "[PINYIN_FOR_孔]",
+      "needsLookup": true
+    },
+    {
+      "index": 247,
+      "character": "字",
+      "pinyin": "[PINYIN_FOR_字]",
+      "needsLookup": true
+    },
+    {
+      "index": 248,
+      "character": "孟",
+      "pinyin": "[PINYIN_FOR_孟]",
+      "needsLookup": true
+    },
+    {
+      "index": 249,
+      "character": "季",
+      "pinyin": "[PINYIN_FOR_季]",
+      "needsLookup": true
+    },
+    {
+      "index": 250,
+      "character": "学",
+      "pinyin": "[PINYIN_FOR_学]",
+      "needsLookup": true
+    },
+    {
+      "index": 251,
+      "character": "孩",
+      "pinyin": "[PINYIN_FOR_孩]",
+      "needsLookup": true
+    },
+    {
+      "index": 252,
+      "character": "宅",
+      "pinyin": "[PINYIN_FOR_宅]",
+      "needsLookup": true
+    },
+    {
+      "index": 253,
+      "character": "守",
+      "pinyin": "[PINYIN_FOR_守]",
+      "needsLookup": true
+    },
+    {
+      "index": 254,
+      "character": "安",
+      "pinyin": "[PINYIN_FOR_安]",
+      "needsLookup": true
+    },
+    {
+      "index": 255,
+      "character": "定",
+      "pinyin": "[PINYIN_FOR_定]",
+      "needsLookup": true
+    },
+    {
+      "index": 256,
+      "character": "宝",
+      "pinyin": "[PINYIN_FOR_宝]",
+      "needsLookup": true
+    },
+    {
+      "index": 257,
+      "character": "实",
+      "pinyin": "[PINYIN_FOR_实]",
+      "needsLookup": true
+    },
+    {
+      "index": 258,
+      "character": "客",
+      "pinyin": "[PINYIN_FOR_客]",
+      "needsLookup": true
+    },
+    {
+      "index": 259,
+      "character": "室",
+      "pinyin": "[PINYIN_FOR_室]",
+      "needsLookup": true
+    },
+    {
+      "index": 260,
+      "character": "宫",
+      "pinyin": "[PINYIN_FOR_宫]",
+      "needsLookup": true
+    },
+    {
+      "index": 261,
+      "character": "宴",
+      "pinyin": "[PINYIN_FOR_宴]",
+      "needsLookup": true
+    },
+    {
+      "index": 262,
+      "character": "宵",
+      "pinyin": "[PINYIN_FOR_宵]",
+      "needsLookup": true
+    },
+    {
+      "index": 263,
+      "character": "家",
+      "pinyin": "[PINYIN_FOR_家]",
+      "needsLookup": true
+    },
+    {
+      "index": 264,
+      "character": "容",
+      "pinyin": "[PINYIN_FOR_容]",
+      "needsLookup": true
+    },
+    {
+      "index": 265,
+      "character": "宾",
+      "pinyin": "[PINYIN_FOR_宾]",
+      "needsLookup": true
+    },
+    {
+      "index": 266,
+      "character": "宿",
+      "pinyin": "[PINYIN_FOR_宿]",
+      "needsLookup": true
+    },
+    {
+      "index": 267,
+      "character": "密",
+      "pinyin": "[PINYIN_FOR_密]",
+      "needsLookup": true
+    },
+    {
+      "index": 268,
+      "character": "富",
+      "pinyin": "[PINYIN_FOR_富]",
+      "needsLookup": true
+    },
+    {
+      "index": 269,
+      "character": "寒",
+      "pinyin": "[PINYIN_FOR_寒]",
+      "needsLookup": true
+    },
+    {
+      "index": 270,
+      "character": "察",
+      "pinyin": "[PINYIN_FOR_察]",
+      "needsLookup": true
+    },
+    {
+      "index": 271,
+      "character": "导",
+      "pinyin": "[PINYIN_FOR_导]",
+      "needsLookup": true
+    },
+    {
+      "index": 272,
+      "character": "将",
+      "pinyin": "[PINYIN_FOR_将]",
+      "needsLookup": true
+    },
+    {
+      "index": 273,
+      "character": "尊",
+      "pinyin": "[PINYIN_FOR_尊]",
+      "needsLookup": true
+    },
+    {
+      "index": 274,
+      "character": "小",
+      "pinyin": "[PINYIN_FOR_小]",
+      "needsLookup": true
+    },
+    {
+      "index": 275,
+      "character": "尔",
+      "pinyin": "[PINYIN_FOR_尔]",
+      "needsLookup": true
+    },
+    {
+      "index": 276,
+      "character": "尘",
+      "pinyin": "[PINYIN_FOR_尘]",
+      "needsLookup": true
+    },
+    {
+      "index": 277,
+      "character": "尤",
+      "pinyin": "[PINYIN_FOR_尤]",
+      "needsLookup": true
+    },
+    {
+      "index": 278,
+      "character": "就",
+      "pinyin": "[PINYIN_FOR_就]",
+      "needsLookup": true
+    },
+    {
+      "index": 279,
+      "character": "尽",
+      "pinyin": "[PINYIN_FOR_尽]",
+      "needsLookup": true
+    },
+    {
+      "index": 280,
+      "character": "局",
+      "pinyin": "[PINYIN_FOR_局]",
+      "needsLookup": true
+    },
+    {
+      "index": 281,
+      "character": "屉",
+      "pinyin": "[PINYIN_FOR_屉]",
+      "needsLookup": true
+    },
+    {
+      "index": 282,
+      "character": "展",
+      "pinyin": "[PINYIN_FOR_展]",
+      "needsLookup": true
+    },
+    {
+      "index": 283,
+      "character": "山",
+      "pinyin": "[PINYIN_FOR_山]",
+      "needsLookup": true
+    },
+    {
+      "index": 284,
+      "character": "岁",
+      "pinyin": "[PINYIN_FOR_岁]",
+      "needsLookup": true
+    },
+    {
+      "index": 285,
+      "character": "岛",
+      "pinyin": "[PINYIN_FOR_岛]",
+      "needsLookup": true
+    },
+    {
+      "index": 286,
+      "character": "州",
+      "pinyin": "[PINYIN_FOR_州]",
+      "needsLookup": true
+    },
+    {
+      "index": 287,
+      "character": "工",
+      "pinyin": "[PINYIN_FOR_工]",
+      "needsLookup": true
+    },
+    {
+      "index": 288,
+      "character": "左",
+      "pinyin": "[PINYIN_FOR_左]",
+      "needsLookup": true
+    },
+    {
+      "index": 289,
+      "character": "巧",
+      "pinyin": "[PINYIN_FOR_巧]",
+      "needsLookup": true
+    },
+    {
+      "index": 290,
+      "character": "差",
+      "pinyin": "[PINYIN_FOR_差]",
+      "needsLookup": true
+    },
+    {
+      "index": 291,
+      "character": "己",
+      "pinyin": "[PINYIN_FOR_己]",
+      "needsLookup": true
+    },
+    {
+      "index": 292,
+      "character": "已",
+      "pinyin": "[PINYIN_FOR_已]",
+      "needsLookup": true
+    },
+    {
+      "index": 293,
+      "character": "巴",
+      "pinyin": "[PINYIN_FOR_巴]",
+      "needsLookup": true
+    },
+    {
+      "index": 294,
+      "character": "币",
+      "pinyin": "[PINYIN_FOR_币]",
+      "needsLookup": true
+    },
+    {
+      "index": 295,
+      "character": "市",
+      "pinyin": "[PINYIN_FOR_市]",
+      "needsLookup": true
+    },
+    {
+      "index": 296,
+      "character": "帅",
+      "pinyin": "[PINYIN_FOR_帅]",
+      "needsLookup": true
+    },
+    {
+      "index": 297,
+      "character": "师",
+      "pinyin": "[PINYIN_FOR_师]",
+      "needsLookup": true
+    },
+    {
+      "index": 298,
+      "character": "希",
+      "pinyin": "[PINYIN_FOR_希]",
+      "needsLookup": true
+    },
+    {
+      "index": 299,
+      "character": "帮",
+      "pinyin": "[PINYIN_FOR_帮]",
+      "needsLookup": true
+    },
+    {
+      "index": 300,
+      "character": "常",
+      "pinyin": "[PINYIN_FOR_常]",
+      "needsLookup": true
+    },
+    {
+      "index": 301,
+      "character": "帽",
+      "pinyin": "[PINYIN_FOR_帽]",
+      "needsLookup": true
+    },
+    {
+      "index": 302,
+      "character": "幕",
+      "pinyin": "[PINYIN_FOR_幕]",
+      "needsLookup": true
+    },
+    {
+      "index": 303,
+      "character": "平",
+      "pinyin": "[PINYIN_FOR_平]",
+      "needsLookup": true
+    },
+    {
+      "index": 304,
+      "character": "并",
+      "pinyin": "[PINYIN_FOR_并]",
+      "needsLookup": true
+    },
+    {
+      "index": 305,
+      "character": "幸",
+      "pinyin": "[PINYIN_FOR_幸]",
+      "needsLookup": true
+    },
+    {
+      "index": 306,
+      "character": "广",
+      "pinyin": "[PINYIN_FOR_广]",
+      "needsLookup": true
+    },
+    {
+      "index": 307,
+      "character": "床",
+      "pinyin": "[PINYIN_FOR_床]",
+      "needsLookup": true
+    },
+    {
+      "index": 308,
+      "character": "底",
+      "pinyin": "[PINYIN_FOR_底]",
+      "needsLookup": true
+    },
+    {
+      "index": 309,
+      "character": "店",
+      "pinyin": "[PINYIN_FOR_店]",
+      "needsLookup": true
+    },
+    {
+      "index": 310,
+      "character": "座",
+      "pinyin": "[PINYIN_FOR_座]",
+      "needsLookup": true
+    },
+    {
+      "index": 311,
+      "character": "庭",
+      "pinyin": "[PINYIN_FOR_庭]",
+      "needsLookup": true
+    },
+    {
+      "index": 312,
+      "character": "康",
+      "pinyin": "[PINYIN_FOR_康]",
+      "needsLookup": true
+    },
+    {
+      "index": 313,
+      "character": "延",
+      "pinyin": "[PINYIN_FOR_延]",
+      "needsLookup": true
+    },
+    {
+      "index": 314,
+      "character": "式",
+      "pinyin": "[PINYIN_FOR_式]",
+      "needsLookup": true
+    },
+    {
+      "index": 315,
+      "character": "引",
+      "pinyin": "[PINYIN_FOR_引]",
+      "needsLookup": true
+    },
+    {
+      "index": 316,
+      "character": "弟",
+      "pinyin": "[PINYIN_FOR_弟]",
+      "needsLookup": true
+    },
+    {
+      "index": 317,
+      "character": "张",
+      "pinyin": "[PINYIN_FOR_张]",
+      "needsLookup": true
+    },
+    {
+      "index": 318,
+      "character": "弯",
+      "pinyin": "[PINYIN_FOR_弯]",
+      "needsLookup": true
+    },
+    {
+      "index": 319,
+      "character": "录",
+      "pinyin": "[PINYIN_FOR_录]",
+      "needsLookup": true
+    },
+    {
+      "index": 320,
+      "character": "彩",
+      "pinyin": "[PINYIN_FOR_彩]",
+      "needsLookup": true
+    },
+    {
+      "index": 321,
+      "character": "影",
+      "pinyin": "[PINYIN_FOR_影]",
+      "needsLookup": true
+    },
+    {
+      "index": 322,
+      "character": "往",
+      "pinyin": "[PINYIN_FOR_往]",
+      "needsLookup": true
+    },
+    {
+      "index": 323,
+      "character": "很",
+      "pinyin": "[PINYIN_FOR_很]",
+      "needsLookup": true
+    },
+    {
+      "index": 324,
+      "character": "微",
+      "pinyin": "[PINYIN_FOR_微]",
+      "needsLookup": true
+    },
+    {
+      "index": 325,
+      "character": "志",
+      "pinyin": "[PINYIN_FOR_志]",
+      "needsLookup": true
+    },
+    {
+      "index": 326,
+      "character": "忙",
+      "pinyin": "[PINYIN_FOR_忙]",
+      "needsLookup": true
+    },
+    {
+      "index": 327,
+      "character": "快",
+      "pinyin": "[PINYIN_FOR_快]",
+      "needsLookup": true
+    },
+    {
+      "index": 328,
+      "character": "态",
+      "pinyin": "[PINYIN_FOR_态]",
+      "needsLookup": true
+    },
+    {
+      "index": 329,
+      "character": "怎",
+      "pinyin": "[PINYIN_FOR_怎]",
+      "needsLookup": true
+    },
+    {
+      "index": 330,
+      "character": "思",
+      "pinyin": "[PINYIN_FOR_思]",
+      "needsLookup": true
+    },
+    {
+      "index": 331,
+      "character": "性",
+      "pinyin": "[PINYIN_FOR_性]",
+      "needsLookup": true
+    },
+    {
+      "index": 332,
+      "character": "怪",
+      "pinyin": "[PINYIN_FOR_怪]",
+      "needsLookup": true
+    },
+    {
+      "index": 333,
+      "character": "总",
+      "pinyin": "[PINYIN_FOR_总]",
+      "needsLookup": true
+    },
+    {
+      "index": 334,
+      "character": "恐",
+      "pinyin": "[PINYIN_FOR_恐]",
+      "needsLookup": true
+    },
+    {
+      "index": 335,
+      "character": "恤",
+      "pinyin": "[PINYIN_FOR_恤]",
+      "needsLookup": true
+    },
+    {
+      "index": 336,
+      "character": "息",
+      "pinyin": "[PINYIN_FOR_息]",
+      "needsLookup": true
+    },
+    {
+      "index": 337,
+      "character": "恼",
+      "pinyin": "[PINYIN_FOR_恼]",
+      "needsLookup": true
+    },
+    {
+      "index": 338,
+      "character": "悔",
+      "pinyin": "[PINYIN_FOR_悔]",
+      "needsLookup": true
+    },
+    {
+      "index": 339,
+      "character": "您",
+      "pinyin": "[PINYIN_FOR_您]",
+      "needsLookup": true
+    },
+    {
+      "index": 340,
+      "character": "情",
+      "pinyin": "[PINYIN_FOR_情]",
+      "needsLookup": true
+    },
+    {
+      "index": 341,
+      "character": "惜",
+      "pinyin": "[PINYIN_FOR_惜]",
+      "needsLookup": true
+    },
+    {
+      "index": 342,
+      "character": "想",
+      "pinyin": "[PINYIN_FOR_想]",
+      "needsLookup": true
+    },
+    {
+      "index": 343,
+      "character": "愉",
+      "pinyin": "[PINYIN_FOR_愉]",
+      "needsLookup": true
+    },
+    {
+      "index": 344,
+      "character": "意",
+      "pinyin": "[PINYIN_FOR_意]",
+      "needsLookup": true
+    },
+    {
+      "index": 345,
+      "character": "感",
+      "pinyin": "[PINYIN_FOR_感]",
+      "needsLookup": true
+    },
+    {
+      "index": 346,
+      "character": "愿",
+      "pinyin": "[PINYIN_FOR_愿]",
+      "needsLookup": true
+    },
+    {
+      "index": 347,
+      "character": "慈",
+      "pinyin": "[PINYIN_FOR_慈]",
+      "needsLookup": true
+    },
+    {
+      "index": 348,
+      "character": "慢",
+      "pinyin": "[PINYIN_FOR_慢]",
+      "needsLookup": true
+    },
+    {
+      "index": 349,
+      "character": "憾",
+      "pinyin": "[PINYIN_FOR_憾]",
+      "needsLookup": true
+    },
+    {
+      "index": 350,
+      "character": "成",
+      "pinyin": "[PINYIN_FOR_成]",
+      "needsLookup": true
+    },
+    {
+      "index": 351,
+      "character": "我",
+      "pinyin": "[PINYIN_FOR_我]",
+      "needsLookup": true
+    },
+    {
+      "index": 352,
+      "character": "戒",
+      "pinyin": "[PINYIN_FOR_戒]",
+      "needsLookup": true
+    },
+    {
+      "index": 353,
+      "character": "或",
+      "pinyin": "[PINYIN_FOR_或]",
+      "needsLookup": true
+    },
+    {
+      "index": 354,
+      "character": "户",
+      "pinyin": "[PINYIN_FOR_户]",
+      "needsLookup": true
+    },
+    {
+      "index": 355,
+      "character": "房",
+      "pinyin": "[PINYIN_FOR_房]",
+      "needsLookup": true
+    },
+    {
+      "index": 356,
+      "character": "所",
+      "pinyin": "[PINYIN_FOR_所]",
+      "needsLookup": true
+    },
+    {
+      "index": 357,
+      "character": "才",
+      "pinyin": "[PINYIN_FOR_才]",
+      "needsLookup": true
+    },
+    {
+      "index": 358,
+      "character": "扎",
+      "pinyin": "[PINYIN_FOR_扎]",
+      "needsLookup": true
+    },
+    {
+      "index": 359,
+      "character": "打",
+      "pinyin": "[PINYIN_FOR_打]",
+      "needsLookup": true
+    },
+    {
+      "index": 360,
+      "character": "托",
+      "pinyin": "[PINYIN_FOR_托]",
+      "needsLookup": true
+    },
+    {
+      "index": 361,
+      "character": "扫",
+      "pinyin": "[PINYIN_FOR_扫]",
+      "needsLookup": true
+    },
+    {
+      "index": 362,
+      "character": "扮",
+      "pinyin": "[PINYIN_FOR_扮]",
+      "needsLookup": true
+    },
+    {
+      "index": 363,
+      "character": "找",
+      "pinyin": "[PINYIN_FOR_找]",
+      "needsLookup": true
+    },
+    {
+      "index": 364,
+      "character": "技",
+      "pinyin": "[PINYIN_FOR_技]",
+      "needsLookup": true
+    },
+    {
+      "index": 365,
+      "character": "折",
+      "pinyin": "[PINYIN_FOR_折]",
+      "needsLookup": true
+    },
+    {
+      "index": 366,
+      "character": "护",
+      "pinyin": "[PINYIN_FOR_护]",
+      "needsLookup": true
+    },
+    {
+      "index": 367,
+      "character": "报",
+      "pinyin": "[PINYIN_FOR_报]",
+      "needsLookup": true
+    },
+    {
+      "index": 368,
+      "character": "担",
+      "pinyin": "[PINYIN_FOR_担]",
+      "needsLookup": true
+    },
+    {
+      "index": 369,
+      "character": "拥",
+      "pinyin": "[PINYIN_FOR_拥]",
+      "needsLookup": true
+    },
+    {
+      "index": 370,
+      "character": "括",
+      "pinyin": "[PINYIN_FOR_括]",
+      "needsLookup": true
+    },
+    {
+      "index": 371,
+      "character": "持",
+      "pinyin": "[PINYIN_FOR_持]",
+      "needsLookup": true
+    },
+    {
+      "index": 372,
+      "character": "换",
+      "pinyin": "[PINYIN_FOR_换]",
+      "needsLookup": true
+    },
+    {
+      "index": 373,
+      "character": "据",
+      "pinyin": "[PINYIN_FOR_据]",
+      "needsLookup": true
+    },
+    {
+      "index": 374,
+      "character": "掌",
+      "pinyin": "[PINYIN_FOR_掌]",
+      "needsLookup": true
+    },
+    {
+      "index": 375,
+      "character": "接",
+      "pinyin": "[PINYIN_FOR_接]",
+      "needsLookup": true
+    },
+    {
+      "index": 376,
+      "character": "握",
+      "pinyin": "[PINYIN_FOR_握]",
+      "needsLookup": true
+    },
+    {
+      "index": 377,
+      "character": "摄",
+      "pinyin": "[PINYIN_FOR_摄]",
+      "needsLookup": true
+    },
+    {
+      "index": 378,
+      "character": "摇",
+      "pinyin": "[PINYIN_FOR_摇]",
+      "needsLookup": true
+    },
+    {
+      "index": 379,
+      "character": "摩",
+      "pinyin": "[PINYIN_FOR_摩]",
+      "needsLookup": true
+    },
+    {
+      "index": 380,
+      "character": "播",
+      "pinyin": "[PINYIN_FOR_播]",
+      "needsLookup": true
+    },
+    {
+      "index": 381,
+      "character": "政",
+      "pinyin": "[PINYIN_FOR_政]",
+      "needsLookup": true
+    },
+    {
+      "index": 382,
+      "character": "故",
+      "pinyin": "[PINYIN_FOR_故]",
+      "needsLookup": true
+    },
+    {
+      "index": 383,
+      "character": "救",
+      "pinyin": "[PINYIN_FOR_救]",
+      "needsLookup": true
+    },
+    {
+      "index": 384,
+      "character": "教",
+      "pinyin": "[PINYIN_FOR_教]",
+      "needsLookup": true
+    },
+    {
+      "index": 385,
+      "character": "散",
+      "pinyin": "[PINYIN_FOR_散]",
+      "needsLookup": true
+    },
+    {
+      "index": 386,
+      "character": "敬",
+      "pinyin": "[PINYIN_FOR_敬]",
+      "needsLookup": true
+    },
+    {
+      "index": 387,
+      "character": "数",
+      "pinyin": "[PINYIN_FOR_数]",
+      "needsLookup": true
+    },
+    {
+      "index": 388,
+      "character": "整",
+      "pinyin": "[PINYIN_FOR_整]",
+      "needsLookup": true
+    },
+    {
+      "index": 389,
+      "character": "文",
+      "pinyin": "[PINYIN_FOR_文]",
+      "needsLookup": true
+    },
+    {
+      "index": 390,
+      "character": "断",
+      "pinyin": "[PINYIN_FOR_断]",
+      "needsLookup": true
+    },
+    {
+      "index": 391,
+      "character": "新",
+      "pinyin": "[PINYIN_FOR_新]",
+      "needsLookup": true
+    },
+    {
+      "index": 392,
+      "character": "旁",
+      "pinyin": "[PINYIN_FOR_旁]",
+      "needsLookup": true
+    },
+    {
+      "index": 393,
+      "character": "旅",
+      "pinyin": "[PINYIN_FOR_旅]",
+      "needsLookup": true
+    },
+    {
+      "index": 394,
+      "character": "族",
+      "pinyin": "[PINYIN_FOR_族]",
+      "needsLookup": true
+    },
+    {
+      "index": 395,
+      "character": "旗",
+      "pinyin": "[PINYIN_FOR_旗]",
+      "needsLookup": true
+    },
+    {
+      "index": 396,
+      "character": "日",
+      "pinyin": "[PINYIN_FOR_日]",
+      "needsLookup": true
+    },
+    {
+      "index": 397,
+      "character": "旧",
+      "pinyin": "[PINYIN_FOR_旧]",
+      "needsLookup": true
+    },
+    {
+      "index": 398,
+      "character": "早",
+      "pinyin": "[PINYIN_FOR_早]",
+      "needsLookup": true
+    },
+    {
+      "index": 399,
+      "character": "时",
+      "pinyin": "[PINYIN_FOR_时]",
+      "needsLookup": true
+    },
+    {
+      "index": 400,
+      "character": "明",
+      "pinyin": "[PINYIN_FOR_明]",
+      "needsLookup": true
+    },
+    {
+      "index": 401,
+      "character": "易",
+      "pinyin": "[PINYIN_FOR_易]",
+      "needsLookup": true
+    },
+    {
+      "index": 402,
+      "character": "星",
+      "pinyin": "[PINYIN_FOR_星]",
+      "needsLookup": true
+    },
+    {
+      "index": 403,
+      "character": "昨",
+      "pinyin": "[PINYIN_FOR_昨]",
+      "needsLookup": true
+    },
+    {
+      "index": 404,
+      "character": "是",
+      "pinyin": "[PINYIN_FOR_是]",
+      "needsLookup": true
+    },
+    {
+      "index": 405,
+      "character": "显",
+      "pinyin": "[PINYIN_FOR_显]",
+      "needsLookup": true
+    },
+    {
+      "index": 406,
+      "character": "晚",
+      "pinyin": "[PINYIN_FOR_晚]",
+      "needsLookup": true
+    },
+    {
+      "index": 407,
+      "character": "晨",
+      "pinyin": "[PINYIN_FOR_晨]",
+      "needsLookup": true
+    },
+    {
+      "index": 408,
+      "character": "普",
+      "pinyin": "[PINYIN_FOR_普]",
+      "needsLookup": true
+    },
+    {
+      "index": 409,
+      "character": "景",
+      "pinyin": "[PINYIN_FOR_景]",
+      "needsLookup": true
+    },
+    {
+      "index": 410,
+      "character": "暑",
+      "pinyin": "[PINYIN_FOR_暑]",
+      "needsLookup": true
+    },
+    {
+      "index": 411,
+      "character": "暖",
+      "pinyin": "[PINYIN_FOR_暖]",
+      "needsLookup": true
+    },
+    {
+      "index": 412,
+      "character": "曲",
+      "pinyin": "[PINYIN_FOR_曲]",
+      "needsLookup": true
+    },
+    {
+      "index": 413,
+      "character": "替",
+      "pinyin": "[PINYIN_FOR_替]",
+      "needsLookup": true
+    },
+    {
+      "index": 414,
+      "character": "月",
+      "pinyin": "[PINYIN_FOR_月]",
+      "needsLookup": true
+    },
+    {
+      "index": 415,
+      "character": "有",
+      "pinyin": "[PINYIN_FOR_有]",
+      "needsLookup": true
+    },
+    {
+      "index": 416,
+      "character": "朋",
+      "pinyin": "[PINYIN_FOR_朋]",
+      "needsLookup": true
+    },
+    {
+      "index": 417,
+      "character": "服",
+      "pinyin": "[PINYIN_FOR_服]",
+      "needsLookup": true
+    },
+    {
+      "index": 418,
+      "character": "望",
+      "pinyin": "[PINYIN_FOR_望]",
+      "needsLookup": true
+    },
+    {
+      "index": 419,
+      "character": "期",
+      "pinyin": "[PINYIN_FOR_期]",
+      "needsLookup": true
+    },
+    {
+      "index": 420,
+      "character": "木",
+      "pinyin": "[PINYIN_FOR_木]",
+      "needsLookup": true
+    },
+    {
+      "index": 421,
+      "character": "未",
+      "pinyin": "[PINYIN_FOR_未]",
+      "needsLookup": true
+    },
+    {
+      "index": 422,
+      "character": "末",
+      "pinyin": "[PINYIN_FOR_末]",
+      "needsLookup": true
+    },
+    {
+      "index": 423,
+      "character": "术",
+      "pinyin": "[PINYIN_FOR_术]",
+      "needsLookup": true
+    },
+    {
+      "index": 424,
+      "character": "机",
+      "pinyin": "[PINYIN_FOR_机]",
+      "needsLookup": true
+    },
+    {
+      "index": 425,
+      "character": "杂",
+      "pinyin": "[PINYIN_FOR_杂]",
+      "needsLookup": true
+    },
+    {
+      "index": 426,
+      "character": "李",
+      "pinyin": "[PINYIN_FOR_李]",
+      "needsLookup": true
+    },
+    {
+      "index": 427,
+      "character": "村",
+      "pinyin": "[PINYIN_FOR_村]",
+      "needsLookup": true
+    },
+    {
+      "index": 428,
+      "character": "来",
+      "pinyin": "[PINYIN_FOR_来]",
+      "needsLookup": true
+    },
+    {
+      "index": 429,
+      "character": "杭",
+      "pinyin": "[PINYIN_FOR_杭]",
+      "needsLookup": true
+    },
+    {
+      "index": 430,
+      "character": "杯",
+      "pinyin": "[PINYIN_FOR_杯]",
+      "needsLookup": true
+    },
+    {
+      "index": 431,
+      "character": "杰",
+      "pinyin": "[PINYIN_FOR_杰]",
+      "needsLookup": true
+    },
+    {
+      "index": 432,
+      "character": "板",
+      "pinyin": "[PINYIN_FOR_板]",
+      "needsLookup": true
+    },
+    {
+      "index": 433,
+      "character": "极",
+      "pinyin": "[PINYIN_FOR_极]",
+      "needsLookup": true
+    },
+    {
+      "index": 434,
+      "character": "果",
+      "pinyin": "[PINYIN_FOR_果]",
+      "needsLookup": true
+    },
+    {
+      "index": 435,
+      "character": "染",
+      "pinyin": "[PINYIN_FOR_染]",
+      "needsLookup": true
+    },
+    {
+      "index": 436,
+      "character": "柜",
+      "pinyin": "[PINYIN_FOR_柜]",
+      "needsLookup": true
+    },
+    {
+      "index": 437,
+      "character": "柿",
+      "pinyin": "[PINYIN_FOR_柿]",
+      "needsLookup": true
+    },
+    {
+      "index": 438,
+      "character": "标",
+      "pinyin": "[PINYIN_FOR_标]",
+      "needsLookup": true
+    },
+    {
+      "index": 439,
+      "character": "树",
+      "pinyin": "[PINYIN_FOR_树]",
+      "needsLookup": true
+    },
+    {
+      "index": 440,
+      "character": "校",
+      "pinyin": "[PINYIN_FOR_校]",
+      "needsLookup": true
+    },
+    {
+      "index": 441,
+      "character": "格",
+      "pinyin": "[PINYIN_FOR_格]",
+      "needsLookup": true
+    },
+    {
+      "index": 442,
+      "character": "案",
+      "pinyin": "[PINYIN_FOR_案]",
+      "needsLookup": true
+    },
+    {
+      "index": 443,
+      "character": "桌",
+      "pinyin": "[PINYIN_FOR_桌]",
+      "needsLookup": true
+    },
+    {
+      "index": 444,
+      "character": "梦",
+      "pinyin": "[PINYIN_FOR_梦]",
+      "needsLookup": true
+    },
+    {
+      "index": 445,
+      "character": "梯",
+      "pinyin": "[PINYIN_FOR_梯]",
+      "needsLookup": true
+    },
+    {
+      "index": 446,
+      "character": "检",
+      "pinyin": "[PINYIN_FOR_检]",
+      "needsLookup": true
+    },
+    {
+      "index": 447,
+      "character": "棉",
+      "pinyin": "[PINYIN_FOR_棉]",
+      "needsLookup": true
+    },
+    {
+      "index": 448,
+      "character": "植",
+      "pinyin": "[PINYIN_FOR_植]",
+      "needsLookup": true
+    },
+    {
+      "index": 449,
+      "character": "楚",
+      "pinyin": "[PINYIN_FOR_楚]",
+      "needsLookup": true
+    },
+    {
+      "index": 450,
+      "character": "楼",
+      "pinyin": "[PINYIN_FOR_楼]",
+      "needsLookup": true
+    },
+    {
+      "index": 451,
+      "character": "概",
+      "pinyin": "[PINYIN_FOR_概]",
+      "needsLookup": true
+    },
+    {
+      "index": 452,
+      "character": "欢",
+      "pinyin": "[PINYIN_FOR_欢]",
+      "needsLookup": true
+    },
+    {
+      "index": 453,
+      "character": "款",
+      "pinyin": "[PINYIN_FOR_款]",
+      "needsLookup": true
+    },
+    {
+      "index": 454,
+      "character": "歉",
+      "pinyin": "[PINYIN_FOR_歉]",
+      "needsLookup": true
+    },
+    {
+      "index": 455,
+      "character": "歌",
+      "pinyin": "[PINYIN_FOR_歌]",
+      "needsLookup": true
+    },
+    {
+      "index": 456,
+      "character": "正",
+      "pinyin": "[PINYIN_FOR_正]",
+      "needsLookup": true
+    },
+    {
+      "index": 457,
+      "character": "武",
+      "pinyin": "[PINYIN_FOR_武]",
+      "needsLookup": true
+    },
+    {
+      "index": 458,
+      "character": "死",
+      "pinyin": "[PINYIN_FOR_死]",
+      "needsLookup": true
+    },
+    {
+      "index": 459,
+      "character": "母",
+      "pinyin": "[PINYIN_FOR_母]",
+      "needsLookup": true
+    },
+    {
+      "index": 460,
+      "character": "每",
+      "pinyin": "[PINYIN_FOR_每]",
+      "needsLookup": true
+    },
+    {
+      "index": 461,
+      "character": "毛",
+      "pinyin": "[PINYIN_FOR_毛]",
+      "needsLookup": true
+    },
+    {
+      "index": 462,
+      "character": "毯",
+      "pinyin": "[PINYIN_FOR_毯]",
+      "needsLookup": true
+    },
+    {
+      "index": 463,
+      "character": "民",
+      "pinyin": "[PINYIN_FOR_民]",
+      "needsLookup": true
+    },
+    {
+      "index": 464,
+      "character": "气",
+      "pinyin": "[PINYIN_FOR_气]",
+      "needsLookup": true
+    },
+    {
+      "index": 465,
+      "character": "氛",
+      "pinyin": "[PINYIN_FOR_氛]",
+      "needsLookup": true
+    },
+    {
+      "index": 466,
+      "character": "水",
+      "pinyin": "[PINYIN_FOR_水]",
+      "needsLookup": true
+    },
+    {
+      "index": 467,
+      "character": "永",
+      "pinyin": "[PINYIN_FOR_永]",
+      "needsLookup": true
+    },
+    {
+      "index": 468,
+      "character": "求",
+      "pinyin": "[PINYIN_FOR_求]",
+      "needsLookup": true
+    },
+    {
+      "index": 469,
+      "character": "汇",
+      "pinyin": "[PINYIN_FOR_汇]",
+      "needsLookup": true
+    },
+    {
+      "index": 470,
+      "character": "汉",
+      "pinyin": "[PINYIN_FOR_汉]",
+      "needsLookup": true
+    },
+    {
+      "index": 471,
+      "character": "江",
+      "pinyin": "[PINYIN_FOR_江]",
+      "needsLookup": true
+    },
+    {
+      "index": 472,
+      "character": "池",
+      "pinyin": "[PINYIN_FOR_池]",
+      "needsLookup": true
+    },
+    {
+      "index": 473,
+      "character": "污",
+      "pinyin": "[PINYIN_FOR_污]",
+      "needsLookup": true
+    },
+    {
+      "index": 474,
+      "character": "汤",
+      "pinyin": "[PINYIN_FOR_汤]",
+      "needsLookup": true
+    },
+    {
+      "index": 475,
+      "character": "没",
+      "pinyin": "[PINYIN_FOR_没]",
+      "needsLookup": true
+    },
+    {
+      "index": 476,
+      "character": "河",
+      "pinyin": "[PINYIN_FOR_河]",
+      "needsLookup": true
+    },
+    {
+      "index": 477,
+      "character": "油",
+      "pinyin": "[PINYIN_FOR_油]",
+      "needsLookup": true
+    },
+    {
+      "index": 478,
+      "character": "法",
+      "pinyin": "[PINYIN_FOR_法]",
+      "needsLookup": true
+    },
+    {
+      "index": 479,
+      "character": "注",
+      "pinyin": "[PINYIN_FOR_注]",
+      "needsLookup": true
+    },
+    {
+      "index": 480,
+      "character": "泰",
+      "pinyin": "[PINYIN_FOR_泰]",
+      "needsLookup": true
+    },
+    {
+      "index": 481,
+      "character": "洗",
+      "pinyin": "[PINYIN_FOR_洗]",
+      "needsLookup": true
+    },
+    {
+      "index": 482,
+      "character": "济",
+      "pinyin": "[PINYIN_FOR_济]",
+      "needsLookup": true
+    },
+    {
+      "index": 483,
+      "character": "浪",
+      "pinyin": "[PINYIN_FOR_浪]",
+      "needsLookup": true
+    },
+    {
+      "index": 484,
+      "character": "海",
+      "pinyin": "[PINYIN_FOR_海]",
+      "needsLookup": true
+    },
+    {
+      "index": 485,
+      "character": "消",
+      "pinyin": "[PINYIN_FOR_消]",
+      "needsLookup": true
+    },
+    {
+      "index": 486,
+      "character": "淋",
+      "pinyin": "[PINYIN_FOR_淋]",
+      "needsLookup": true
+    },
+    {
+      "index": 487,
+      "character": "清",
+      "pinyin": "[PINYIN_FOR_清]",
+      "needsLookup": true
+    },
+    {
+      "index": 488,
+      "character": "温",
+      "pinyin": "[PINYIN_FOR_温]",
+      "needsLookup": true
+    },
+    {
+      "index": 489,
+      "character": "港",
+      "pinyin": "[PINYIN_FOR_港]",
+      "needsLookup": true
+    },
+    {
+      "index": 490,
+      "character": "游",
+      "pinyin": "[PINYIN_FOR_游]",
+      "needsLookup": true
+    },
+    {
+      "index": 491,
+      "character": "湾",
+      "pinyin": "[PINYIN_FOR_湾]",
+      "needsLookup": true
+    },
+    {
+      "index": 492,
+      "character": "湿",
+      "pinyin": "[PINYIN_FOR_湿]",
+      "needsLookup": true
+    },
+    {
+      "index": 493,
+      "character": "滑",
+      "pinyin": "[PINYIN_FOR_滑]",
+      "needsLookup": true
+    },
+    {
+      "index": 494,
+      "character": "满",
+      "pinyin": "[PINYIN_FOR_满]",
+      "needsLookup": true
+    },
+    {
+      "index": 495,
+      "character": "滨",
+      "pinyin": "[PINYIN_FOR_滨]",
+      "needsLookup": true
+    },
+    {
+      "index": 496,
+      "character": "漂",
+      "pinyin": "[PINYIN_FOR_漂]",
+      "needsLookup": true
+    },
+    {
+      "index": 497,
+      "character": "漆",
+      "pinyin": "[PINYIN_FOR_漆]",
+      "needsLookup": true
+    },
+    {
+      "index": 498,
+      "character": "漠",
+      "pinyin": "[PINYIN_FOR_漠]",
+      "needsLookup": true
+    },
+    {
+      "index": 499,
+      "character": "激",
+      "pinyin": "[PINYIN_FOR_激]",
+      "needsLookup": true
+    },
+    {
+      "index": 500,
+      "character": "火",
+      "pinyin": "[PINYIN_FOR_火]",
+      "needsLookup": true
+    },
+    {
+      "index": 501,
+      "character": "灸",
+      "pinyin": "[PINYIN_FOR_灸]",
+      "needsLookup": true
+    },
+    {
+      "index": 502,
+      "character": "烛",
+      "pinyin": "[PINYIN_FOR_烛]",
+      "needsLookup": true
+    },
+    {
+      "index": 503,
+      "character": "烟",
+      "pinyin": "[PINYIN_FOR_烟]",
+      "needsLookup": true
+    },
+    {
+      "index": 504,
+      "character": "烦",
+      "pinyin": "[PINYIN_FOR_烦]",
+      "needsLookup": true
+    },
+    {
+      "index": 505,
+      "character": "热",
+      "pinyin": "[PINYIN_FOR_热]",
+      "needsLookup": true
+    },
+    {
+      "index": 506,
+      "character": "然",
+      "pinyin": "[PINYIN_FOR_然]",
+      "needsLookup": true
+    },
+    {
+      "index": 507,
+      "character": "熊",
+      "pinyin": "[PINYIN_FOR_熊]",
+      "needsLookup": true
+    },
+    {
+      "index": 508,
+      "character": "爬",
+      "pinyin": "[PINYIN_FOR_爬]",
+      "needsLookup": true
+    },
+    {
+      "index": 509,
+      "character": "父",
+      "pinyin": "[PINYIN_FOR_父]",
+      "needsLookup": true
+    },
+    {
+      "index": 510,
+      "character": "爽",
+      "pinyin": "[PINYIN_FOR_爽]",
+      "needsLookup": true
+    },
+    {
+      "index": 511,
+      "character": "牌",
+      "pinyin": "[PINYIN_FOR_牌]",
+      "needsLookup": true
+    },
+    {
+      "index": 512,
+      "character": "牛",
+      "pinyin": "[PINYIN_FOR_牛]",
+      "needsLookup": true
+    },
+    {
+      "index": 513,
+      "character": "物",
+      "pinyin": "[PINYIN_FOR_物]",
+      "needsLookup": true
+    },
+    {
+      "index": 514,
+      "character": "猫",
+      "pinyin": "[PINYIN_FOR_猫]",
+      "needsLookup": true
+    },
+    {
+      "index": 515,
+      "character": "玩",
+      "pinyin": "[PINYIN_FOR_玩]",
+      "needsLookup": true
+    },
+    {
+      "index": 516,
+      "character": "环",
+      "pinyin": "[PINYIN_FOR_环]",
+      "needsLookup": true
+    },
+    {
+      "index": 517,
+      "character": "现",
+      "pinyin": "[PINYIN_FOR_现]",
+      "needsLookup": true
+    },
+    {
+      "index": 518,
+      "character": "珍",
+      "pinyin": "[PINYIN_FOR_珍]",
+      "needsLookup": true
+    },
+    {
+      "index": 519,
+      "character": "班",
+      "pinyin": "[PINYIN_FOR_班]",
+      "needsLookup": true
+    },
+    {
+      "index": 520,
+      "character": "球",
+      "pinyin": "[PINYIN_FOR_球]",
+      "needsLookup": true
+    },
+    {
+      "index": 521,
+      "character": "理",
+      "pinyin": "[PINYIN_FOR_理]",
+      "needsLookup": true
+    },
+    {
+      "index": 522,
+      "character": "琴",
+      "pinyin": "[PINYIN_FOR_琴]",
+      "needsLookup": true
+    },
+    {
+      "index": 523,
+      "character": "琵",
+      "pinyin": "[PINYIN_FOR_琵]",
+      "needsLookup": true
+    },
+    {
+      "index": 524,
+      "character": "琶",
+      "pinyin": "[PINYIN_FOR_琶]",
+      "needsLookup": true
+    },
+    {
+      "index": 525,
+      "character": "瓜",
+      "pinyin": "[PINYIN_FOR_瓜]",
+      "needsLookup": true
+    },
+    {
+      "index": 526,
+      "character": "瓶",
+      "pinyin": "[PINYIN_FOR_瓶]",
+      "needsLookup": true
+    },
+    {
+      "index": 527,
+      "character": "瓷",
+      "pinyin": "[PINYIN_FOR_瓷]",
+      "needsLookup": true
+    },
+    {
+      "index": 528,
+      "character": "甚",
+      "pinyin": "[PINYIN_FOR_甚]",
+      "needsLookup": true
+    },
+    {
+      "index": 529,
+      "character": "生",
+      "pinyin": "[PINYIN_FOR_生]",
+      "needsLookup": true
+    },
+    {
+      "index": 530,
+      "character": "用",
+      "pinyin": "[PINYIN_FOR_用]",
+      "needsLookup": true
+    },
+    {
+      "index": 531,
+      "character": "由",
+      "pinyin": "[PINYIN_FOR_由]",
+      "needsLookup": true
+    },
+    {
+      "index": 532,
+      "character": "申",
+      "pinyin": "[PINYIN_FOR_申]",
+      "needsLookup": true
+    },
+    {
+      "index": 533,
+      "character": "电",
+      "pinyin": "[PINYIN_FOR_电]",
+      "needsLookup": true
+    },
+    {
+      "index": 534,
+      "character": "画",
+      "pinyin": "[PINYIN_FOR_画]",
+      "needsLookup": true
+    },
+    {
+      "index": 535,
+      "character": "界",
+      "pinyin": "[PINYIN_FOR_界]",
+      "needsLookup": true
+    },
+    {
+      "index": 536,
+      "character": "留",
+      "pinyin": "[PINYIN_FOR_留]",
+      "needsLookup": true
+    },
+    {
+      "index": 537,
+      "character": "白",
+      "pinyin": "[PINYIN_FOR_白]",
+      "needsLookup": true
+    },
+    {
+      "index": 538,
+      "character": "的",
+      "pinyin": "[PINYIN_FOR_的]",
+      "needsLookup": true
+    },
+    {
+      "index": 539,
+      "character": "盒",
+      "pinyin": "[PINYIN_FOR_盒]",
+      "needsLookup": true
+    },
+    {
+      "index": 540,
+      "character": "目",
+      "pinyin": "[PINYIN_FOR_目]",
+      "needsLookup": true
+    },
+    {
+      "index": 541,
+      "character": "直",
+      "pinyin": "[PINYIN_FOR_直]",
+      "needsLookup": true
+    },
+    {
+      "index": 542,
+      "character": "相",
+      "pinyin": "[PINYIN_FOR_相]",
+      "needsLookup": true
+    },
+    {
+      "index": 543,
+      "character": "盹",
+      "pinyin": "[PINYIN_FOR_盹]",
+      "needsLookup": true
+    },
+    {
+      "index": 544,
+      "character": "看",
+      "pinyin": "[PINYIN_FOR_看]",
+      "needsLookup": true
+    },
+    {
+      "index": 545,
+      "character": "真",
+      "pinyin": "[PINYIN_FOR_真]",
+      "needsLookup": true
+    },
+    {
+      "index": 546,
+      "character": "眼",
+      "pinyin": "[PINYIN_FOR_眼]",
+      "needsLookup": true
+    },
+    {
+      "index": 547,
+      "character": "睛",
+      "pinyin": "[PINYIN_FOR_睛]",
+      "needsLookup": true
+    },
+    {
+      "index": 548,
+      "character": "睡",
+      "pinyin": "[PINYIN_FOR_睡]",
+      "needsLookup": true
+    },
+    {
+      "index": 549,
+      "character": "知",
+      "pinyin": "[PINYIN_FOR_知]",
+      "needsLookup": true
+    },
+    {
+      "index": 550,
+      "character": "矩",
+      "pinyin": "[PINYIN_FOR_矩]",
+      "needsLookup": true
+    },
+    {
+      "index": 551,
+      "character": "短",
+      "pinyin": "[PINYIN_FOR_短]",
+      "needsLookup": true
+    },
+    {
+      "index": 552,
+      "character": "石",
+      "pinyin": "[PINYIN_FOR_石]",
+      "needsLookup": true
+    },
+    {
+      "index": 553,
+      "character": "码",
+      "pinyin": "[PINYIN_FOR_码]",
+      "needsLookup": true
+    },
+    {
+      "index": 554,
+      "character": "研",
+      "pinyin": "[PINYIN_FOR_研]",
+      "needsLookup": true
+    },
+    {
+      "index": 555,
+      "character": "础",
+      "pinyin": "[PINYIN_FOR_础]",
+      "needsLookup": true
+    },
+    {
+      "index": 556,
+      "character": "硕",
+      "pinyin": "[PINYIN_FOR_硕]",
+      "needsLookup": true
+    },
+    {
+      "index": 557,
+      "character": "硬",
+      "pinyin": "[PINYIN_FOR_硬]",
+      "needsLookup": true
+    },
+    {
+      "index": 558,
+      "character": "碟",
+      "pinyin": "[PINYIN_FOR_碟]",
+      "needsLookup": true
+    },
+    {
+      "index": 559,
+      "character": "磁",
+      "pinyin": "[PINYIN_FOR_磁]",
+      "needsLookup": true
+    },
+    {
+      "index": 560,
+      "character": "示",
+      "pinyin": "[PINYIN_FOR_示]",
+      "needsLookup": true
+    },
+    {
+      "index": 561,
+      "character": "礼",
+      "pinyin": "[PINYIN_FOR_礼]",
+      "needsLookup": true
+    },
+    {
+      "index": 562,
+      "character": "社",
+      "pinyin": "[PINYIN_FOR_社]",
+      "needsLookup": true
+    },
+    {
+      "index": 563,
+      "character": "祖",
+      "pinyin": "[PINYIN_FOR_祖]",
+      "needsLookup": true
+    },
+    {
+      "index": 564,
+      "character": "祝",
+      "pinyin": "[PINYIN_FOR_祝]",
+      "needsLookup": true
+    },
+    {
+      "index": 565,
+      "character": "神",
+      "pinyin": "[PINYIN_FOR_神]",
+      "needsLookup": true
+    },
+    {
+      "index": 566,
+      "character": "祥",
+      "pinyin": "[PINYIN_FOR_祥]",
+      "needsLookup": true
+    },
+    {
+      "index": 567,
+      "character": "票",
+      "pinyin": "[PINYIN_FOR_票]",
+      "needsLookup": true
+    },
+    {
+      "index": 568,
+      "character": "福",
+      "pinyin": "[PINYIN_FOR_福]",
+      "needsLookup": true
+    },
+    {
+      "index": 569,
+      "character": "离",
+      "pinyin": "[PINYIN_FOR_离]",
+      "needsLookup": true
+    },
+    {
+      "index": 570,
+      "character": "科",
+      "pinyin": "[PINYIN_FOR_科]",
+      "needsLookup": true
+    },
+    {
+      "index": 571,
+      "character": "秘",
+      "pinyin": "[PINYIN_FOR_秘]",
+      "needsLookup": true
+    },
+    {
+      "index": 572,
+      "character": "租",
+      "pinyin": "[PINYIN_FOR_租]",
+      "needsLookup": true
+    },
+    {
+      "index": 573,
+      "character": "积",
+      "pinyin": "[PINYIN_FOR_积]",
+      "needsLookup": true
+    },
+    {
+      "index": 574,
+      "character": "究",
+      "pinyin": "[PINYIN_FOR_究]",
+      "needsLookup": true
+    },
+    {
+      "index": 575,
+      "character": "突",
+      "pinyin": "[PINYIN_FOR_突]",
+      "needsLookup": true
+    },
+    {
+      "index": 576,
+      "character": "窗",
+      "pinyin": "[PINYIN_FOR_窗]",
+      "needsLookup": true
+    },
+    {
+      "index": 577,
+      "character": "立",
+      "pinyin": "[PINYIN_FOR_立]",
+      "needsLookup": true
+    },
+    {
+      "index": 578,
+      "character": "站",
+      "pinyin": "[PINYIN_FOR_站]",
+      "needsLookup": true
+    },
+    {
+      "index": 579,
+      "character": "章",
+      "pinyin": "[PINYIN_FOR_章]",
+      "needsLookup": true
+    },
+    {
+      "index": 580,
+      "character": "笃",
+      "pinyin": "[PINYIN_FOR_笃]",
+      "needsLookup": true
+    },
+    {
+      "index": 581,
+      "character": "笔",
+      "pinyin": "[PINYIN_FOR_笔]",
+      "needsLookup": true
+    },
+    {
+      "index": 582,
+      "character": "等",
+      "pinyin": "[PINYIN_FOR_等]",
+      "needsLookup": true
+    },
+    {
+      "index": 583,
+      "character": "筑",
+      "pinyin": "[PINYIN_FOR_筑]",
+      "needsLookup": true
+    },
+    {
+      "index": 584,
+      "character": "筒",
+      "pinyin": "[PINYIN_FOR_筒]",
+      "needsLookup": true
+    },
+    {
+      "index": 585,
+      "character": "答",
+      "pinyin": "[PINYIN_FOR_答]",
+      "needsLookup": true
+    },
+    {
+      "index": 586,
+      "character": "筷",
+      "pinyin": "[PINYIN_FOR_筷]",
+      "needsLookup": true
+    },
+    {
+      "index": 587,
+      "character": "简",
+      "pinyin": "[PINYIN_FOR_简]",
+      "needsLookup": true
+    },
+    {
+      "index": 588,
+      "character": "算",
+      "pinyin": "[PINYIN_FOR_算]",
+      "needsLookup": true
+    },
+    {
+      "index": 589,
+      "character": "箱",
+      "pinyin": "[PINYIN_FOR_箱]",
+      "needsLookup": true
+    },
+    {
+      "index": 590,
+      "character": "籍",
+      "pinyin": "[PINYIN_FOR_籍]",
+      "needsLookup": true
+    },
+    {
+      "index": 591,
+      "character": "米",
+      "pinyin": "[PINYIN_FOR_米]",
+      "needsLookup": true
+    },
+    {
+      "index": 592,
+      "character": "精",
+      "pinyin": "[PINYIN_FOR_精]",
+      "needsLookup": true
+    },
+    {
+      "index": 593,
+      "character": "糕",
+      "pinyin": "[PINYIN_FOR_糕]",
+      "needsLookup": true
+    },
+    {
+      "index": 594,
+      "character": "糟",
+      "pinyin": "[PINYIN_FOR_糟]",
+      "needsLookup": true
+    },
+    {
+      "index": 595,
+      "character": "紧",
+      "pinyin": "[PINYIN_FOR_紧]",
+      "needsLookup": true
+    },
+    {
+      "index": 596,
+      "character": "累",
+      "pinyin": "[PINYIN_FOR_累]",
+      "needsLookup": true
+    },
+    {
+      "index": 597,
+      "character": "繁",
+      "pinyin": "[PINYIN_FOR_繁]",
+      "needsLookup": true
+    },
+    {
+      "index": 598,
+      "character": "纠",
+      "pinyin": "[PINYIN_FOR_纠]",
+      "needsLookup": true
+    },
+    {
+      "index": 599,
+      "character": "红",
+      "pinyin": "[PINYIN_FOR_红]",
+      "needsLookup": true
+    },
+    {
+      "index": 600,
+      "character": "约",
+      "pinyin": "[PINYIN_FOR_约]",
+      "needsLookup": true
+    },
+    {
+      "index": 601,
+      "character": "线",
+      "pinyin": "[PINYIN_FOR_线]",
+      "needsLookup": true
+    },
+    {
+      "index": 602,
+      "character": "练",
+      "pinyin": "[PINYIN_FOR_练]",
+      "needsLookup": true
+    },
+    {
+      "index": 603,
+      "character": "组",
+      "pinyin": "[PINYIN_FOR_组]",
+      "needsLookup": true
+    },
+    {
+      "index": 604,
+      "character": "织",
+      "pinyin": "[PINYIN_FOR_织]",
+      "needsLookup": true
+    },
+    {
+      "index": 605,
+      "character": "终",
+      "pinyin": "[PINYIN_FOR_终]",
+      "needsLookup": true
+    },
+    {
+      "index": 606,
+      "character": "绍",
+      "pinyin": "[PINYIN_FOR_绍]",
+      "needsLookup": true
+    },
+    {
+      "index": 607,
+      "character": "经",
+      "pinyin": "[PINYIN_FOR_经]",
+      "needsLookup": true
+    },
+    {
+      "index": 608,
+      "character": "给",
+      "pinyin": "[PINYIN_FOR_给]",
+      "needsLookup": true
+    },
+    {
+      "index": 609,
+      "character": "统",
+      "pinyin": "[PINYIN_FOR_统]",
+      "needsLookup": true
+    },
+    {
+      "index": 610,
+      "character": "继",
+      "pinyin": "[PINYIN_FOR_继]",
+      "needsLookup": true
+    },
+    {
+      "index": 611,
+      "character": "续",
+      "pinyin": "[PINYIN_FOR_续]",
+      "needsLookup": true
+    },
+    {
+      "index": 612,
+      "character": "绸",
+      "pinyin": "[PINYIN_FOR_绸]",
+      "needsLookup": true
+    },
+    {
+      "index": 613,
+      "character": "绿",
+      "pinyin": "[PINYIN_FOR_绿]",
+      "needsLookup": true
+    },
+    {
+      "index": 614,
+      "character": "缆",
+      "pinyin": "[PINYIN_FOR_缆]",
+      "needsLookup": true
+    },
+    {
+      "index": 615,
+      "character": "置",
+      "pinyin": "[PINYIN_FOR_置]",
+      "needsLookup": true
+    },
+    {
+      "index": 616,
+      "character": "羊",
+      "pinyin": "[PINYIN_FOR_羊]",
+      "needsLookup": true
+    },
+    {
+      "index": 617,
+      "character": "美",
+      "pinyin": "[PINYIN_FOR_美]",
+      "needsLookup": true
+    },
+    {
+      "index": 618,
+      "character": "翻",
+      "pinyin": "[PINYIN_FOR_翻]",
+      "needsLookup": true
+    },
+    {
+      "index": 619,
+      "character": "老",
+      "pinyin": "[PINYIN_FOR_老]",
+      "needsLookup": true
+    },
+    {
+      "index": 620,
+      "character": "考",
+      "pinyin": "[PINYIN_FOR_考]",
+      "needsLookup": true
+    },
+    {
+      "index": 621,
+      "character": "而",
+      "pinyin": "[PINYIN_FOR_而]",
+      "needsLookup": true
+    },
+    {
+      "index": 622,
+      "character": "耳",
+      "pinyin": "[PINYIN_FOR_耳]",
+      "needsLookup": true
+    },
+    {
+      "index": 623,
+      "character": "联",
+      "pinyin": "[PINYIN_FOR_联]",
+      "needsLookup": true
+    },
+    {
+      "index": 624,
+      "character": "聪",
+      "pinyin": "[PINYIN_FOR_聪]",
+      "needsLookup": true
+    },
+    {
+      "index": 625,
+      "character": "肉",
+      "pinyin": "[PINYIN_FOR_肉]",
+      "needsLookup": true
+    },
+    {
+      "index": 626,
+      "character": "肚",
+      "pinyin": "[PINYIN_FOR_肚]",
+      "needsLookup": true
+    },
+    {
+      "index": 627,
+      "character": "肯",
+      "pinyin": "[PINYIN_FOR_肯]",
+      "needsLookup": true
+    },
+    {
+      "index": 628,
+      "character": "胜",
+      "pinyin": "[PINYIN_FOR_胜]",
+      "needsLookup": true
+    },
+    {
+      "index": 629,
+      "character": "胡",
+      "pinyin": "[PINYIN_FOR_胡]",
+      "needsLookup": true
+    },
+    {
+      "index": 630,
+      "character": "胶",
+      "pinyin": "[PINYIN_FOR_胶]",
+      "needsLookup": true
+    },
+    {
+      "index": 631,
+      "character": "能",
+      "pinyin": "[PINYIN_FOR_能]",
+      "needsLookup": true
+    },
+    {
+      "index": 632,
+      "character": "脑",
+      "pinyin": "[PINYIN_FOR_脑]",
+      "needsLookup": true
+    },
+    {
+      "index": 633,
+      "character": "腐",
+      "pinyin": "[PINYIN_FOR_腐]",
+      "needsLookup": true
+    },
+    {
+      "index": 634,
+      "character": "腰",
+      "pinyin": "[PINYIN_FOR_腰]",
+      "needsLookup": true
+    },
+    {
+      "index": 635,
+      "character": "自",
+      "pinyin": "[PINYIN_FOR_自]",
+      "needsLookup": true
+    },
+    {
+      "index": 636,
+      "character": "舒",
+      "pinyin": "[PINYIN_FOR_舒]",
+      "needsLookup": true
+    },
+    {
+      "index": 637,
+      "character": "航",
+      "pinyin": "[PINYIN_FOR_航]",
+      "needsLookup": true
+    },
+    {
+      "index": 638,
+      "character": "般",
+      "pinyin": "[PINYIN_FOR_般]",
+      "needsLookup": true
+    },
+    {
+      "index": 639,
+      "character": "色",
+      "pinyin": "[PINYIN_FOR_色]",
+      "needsLookup": true
+    },
+    {
+      "index": 640,
+      "character": "艺",
+      "pinyin": "[PINYIN_FOR_艺]",
+      "needsLookup": true
+    },
+    {
+      "index": 641,
+      "character": "芦",
+      "pinyin": "[PINYIN_FOR_芦]",
+      "needsLookup": true
+    },
+    {
+      "index": 642,
+      "character": "英",
+      "pinyin": "[PINYIN_FOR_英]",
+      "needsLookup": true
+    },
+    {
+      "index": 643,
+      "character": "草",
+      "pinyin": "[PINYIN_FOR_草]",
+      "needsLookup": true
+    },
+    {
+      "index": 644,
+      "character": "营",
+      "pinyin": "[PINYIN_FOR_营]",
+      "needsLookup": true
+    },
+    {
+      "index": 645,
+      "character": "葫",
+      "pinyin": "[PINYIN_FOR_葫]",
+      "needsLookup": true
+    },
+    {
+      "index": 646,
+      "character": "薯",
+      "pinyin": "[PINYIN_FOR_薯]",
+      "needsLookup": true
+    },
+    {
+      "index": 647,
+      "character": "虎",
+      "pinyin": "[PINYIN_FOR_虎]",
+      "needsLookup": true
+    },
+    {
+      "index": 648,
+      "character": "蛋",
+      "pinyin": "[PINYIN_FOR_蛋]",
+      "needsLookup": true
+    },
+    {
+      "index": 649,
+      "character": "蜜",
+      "pinyin": "[PINYIN_FOR_蜜]",
+      "needsLookup": true
+    },
+    {
+      "index": 650,
+      "character": "蜡",
+      "pinyin": "[PINYIN_FOR_蜡]",
+      "needsLookup": true
+    },
+    {
+      "index": 651,
+      "character": "行",
+      "pinyin": "[PINYIN_FOR_行]",
+      "needsLookup": true
+    },
+    {
+      "index": 652,
+      "character": "街",
+      "pinyin": "[PINYIN_FOR_街]",
+      "needsLookup": true
+    },
+    {
+      "index": 653,
+      "character": "衣",
+      "pinyin": "[PINYIN_FOR_衣]",
+      "needsLookup": true
+    },
+    {
+      "index": 654,
+      "character": "衫",
+      "pinyin": "[PINYIN_FOR_衫]",
+      "needsLookup": true
+    },
+    {
+      "index": 655,
+      "character": "衬",
+      "pinyin": "[PINYIN_FOR_衬]",
+      "needsLookup": true
+    },
+    {
+      "index": 656,
+      "character": "袋",
+      "pinyin": "[PINYIN_FOR_袋]",
+      "needsLookup": true
+    },
+    {
+      "index": 657,
+      "character": "裙",
+      "pinyin": "[PINYIN_FOR_裙]",
+      "needsLookup": true
+    },
+    {
+      "index": 658,
+      "character": "裤",
+      "pinyin": "[PINYIN_FOR_裤]",
+      "needsLookup": true
+    },
+    {
+      "index": 659,
+      "character": "裹",
+      "pinyin": "[PINYIN_FOR_裹]",
+      "needsLookup": true
+    },
+    {
+      "index": 660,
+      "character": "西",
+      "pinyin": "[PINYIN_FOR_西]",
+      "needsLookup": true
+    },
+    {
+      "index": 661,
+      "character": "要",
+      "pinyin": "[PINYIN_FOR_要]",
+      "needsLookup": true
+    },
+    {
+      "index": 662,
+      "character": "见",
+      "pinyin": "[PINYIN_FOR_见]",
+      "needsLookup": true
+    },
+    {
+      "index": 663,
+      "character": "观",
+      "pinyin": "[PINYIN_FOR_观]",
+      "needsLookup": true
+    },
+    {
+      "index": 664,
+      "character": "规",
+      "pinyin": "[PINYIN_FOR_规]",
+      "needsLookup": true
+    },
+    {
+      "index": 665,
+      "character": "视",
+      "pinyin": "[PINYIN_FOR_视]",
+      "needsLookup": true
+    },
+    {
+      "index": 666,
+      "character": "览",
+      "pinyin": "[PINYIN_FOR_览]",
+      "needsLookup": true
+    },
+    {
+      "index": 667,
+      "character": "觉",
+      "pinyin": "[PINYIN_FOR_觉]",
+      "needsLookup": true
+    },
+    {
+      "index": 668,
+      "character": "解",
+      "pinyin": "[PINYIN_FOR_解]",
+      "needsLookup": true
+    },
+    {
+      "index": 669,
+      "character": "警",
+      "pinyin": "[PINYIN_FOR_警]",
+      "needsLookup": true
+    },
+    {
+      "index": 670,
+      "character": "计",
+      "pinyin": "[PINYIN_FOR_计]",
+      "needsLookup": true
+    },
+    {
+      "index": 671,
+      "character": "认",
+      "pinyin": "[PINYIN_FOR_认]",
+      "needsLookup": true
+    },
+    {
+      "index": 672,
+      "character": "讨",
+      "pinyin": "[PINYIN_FOR_讨]",
+      "needsLookup": true
+    },
+    {
+      "index": 673,
+      "character": "议",
+      "pinyin": "[PINYIN_FOR_议]",
+      "needsLookup": true
+    },
+    {
+      "index": 674,
+      "character": "许",
+      "pinyin": "[PINYIN_FOR_许]",
+      "needsLookup": true
+    },
+    {
+      "index": 675,
+      "character": "论",
+      "pinyin": "[PINYIN_FOR_论]",
+      "needsLookup": true
+    },
+    {
+      "index": 676,
+      "character": "访",
+      "pinyin": "[PINYIN_FOR_访]",
+      "needsLookup": true
+    },
+    {
+      "index": 677,
+      "character": "证",
+      "pinyin": "[PINYIN_FOR_证]",
+      "needsLookup": true
+    },
+    {
+      "index": 678,
+      "character": "识",
+      "pinyin": "[PINYIN_FOR_识]",
+      "needsLookup": true
+    },
+    {
+      "index": 679,
+      "character": "诉",
+      "pinyin": "[PINYIN_FOR_诉]",
+      "needsLookup": true
+    },
+    {
+      "index": 680,
+      "character": "词",
+      "pinyin": "[PINYIN_FOR_词]",
+      "needsLookup": true
+    },
+    {
+      "index": 681,
+      "character": "译",
+      "pinyin": "[PINYIN_FOR_译]",
+      "needsLookup": true
+    },
+    {
+      "index": 682,
+      "character": "试",
+      "pinyin": "[PINYIN_FOR_试]",
+      "needsLookup": true
+    },
+    {
+      "index": 683,
+      "character": "语",
+      "pinyin": "[PINYIN_FOR_语]",
+      "needsLookup": true
+    },
+    {
+      "index": 684,
+      "character": "误",
+      "pinyin": "[PINYIN_FOR_误]",
+      "needsLookup": true
+    },
+    {
+      "index": 685,
+      "character": "说",
+      "pinyin": "[PINYIN_FOR_说]",
+      "needsLookup": true
+    },
+    {
+      "index": 686,
+      "character": "请",
+      "pinyin": "[PINYIN_FOR_请]",
+      "needsLookup": true
+    },
+    {
+      "index": 687,
+      "character": "读",
+      "pinyin": "[PINYIN_FOR_读]",
+      "needsLookup": true
+    },
+    {
+      "index": 688,
+      "character": "课",
+      "pinyin": "[PINYIN_FOR_课]",
+      "needsLookup": true
+    },
+    {
+      "index": 689,
+      "character": "谁",
+      "pinyin": "[PINYIN_FOR_谁]",
+      "needsLookup": true
+    },
+    {
+      "index": 690,
+      "character": "调",
+      "pinyin": "[PINYIN_FOR_调]",
+      "needsLookup": true
+    },
+    {
+      "index": 691,
+      "character": "谅",
+      "pinyin": "[PINYIN_FOR_谅]",
+      "needsLookup": true
+    },
+    {
+      "index": 692,
+      "character": "谈",
+      "pinyin": "[PINYIN_FOR_谈]",
+      "needsLookup": true
+    },
+    {
+      "index": 693,
+      "character": "谊",
+      "pinyin": "[PINYIN_FOR_谊]",
+      "needsLookup": true
+    },
+    {
+      "index": 694,
+      "character": "谎",
+      "pinyin": "[PINYIN_FOR_谎]",
+      "needsLookup": true
+    },
+    {
+      "index": 695,
+      "character": "谐",
+      "pinyin": "[PINYIN_FOR_谐]",
+      "needsLookup": true
+    },
+    {
+      "index": 696,
+      "character": "谢",
+      "pinyin": "[PINYIN_FOR_谢]",
+      "needsLookup": true
+    },
+    {
+      "index": 697,
+      "character": "谱",
+      "pinyin": "[PINYIN_FOR_谱]",
+      "needsLookup": true
+    },
+    {
+      "index": 698,
+      "character": "豆",
+      "pinyin": "[PINYIN_FOR_豆]",
+      "needsLookup": true
+    },
+    {
+      "index": 699,
+      "character": "象",
+      "pinyin": "[PINYIN_FOR_象]",
+      "needsLookup": true
+    },
+    {
+      "index": 700,
+      "character": "财",
+      "pinyin": "[PINYIN_FOR_财]",
+      "needsLookup": true
+    },
+    {
+      "index": 701,
+      "character": "质",
+      "pinyin": "[PINYIN_FOR_质]",
+      "needsLookup": true
+    },
+    {
+      "index": 702,
+      "character": "贵",
+      "pinyin": "[PINYIN_FOR_贵]",
+      "needsLookup": true
+    },
+    {
+      "index": 703,
+      "character": "费",
+      "pinyin": "[PINYIN_FOR_费]",
+      "needsLookup": true
+    },
+    {
+      "index": 704,
+      "character": "资",
+      "pinyin": "[PINYIN_FOR_资]",
+      "needsLookup": true
+    },
+    {
+      "index": 705,
+      "character": "赛",
+      "pinyin": "[PINYIN_FOR_赛]",
+      "needsLookup": true
+    },
+    {
+      "index": 706,
+      "character": "赢",
+      "pinyin": "[PINYIN_FOR_赢]",
+      "needsLookup": true
+    },
+    {
+      "index": 707,
+      "character": "走",
+      "pinyin": "[PINYIN_FOR_走]",
+      "needsLookup": true
+    },
+    {
+      "index": 708,
+      "character": "越",
+      "pinyin": "[PINYIN_FOR_越]",
+      "needsLookup": true
+    },
+    {
+      "index": 709,
+      "character": "趣",
+      "pinyin": "[PINYIN_FOR_趣]",
+      "needsLookup": true
+    },
+    {
+      "index": 710,
+      "character": "跑",
+      "pinyin": "[PINYIN_FOR_跑]",
+      "needsLookup": true
+    },
+    {
+      "index": 711,
+      "character": "距",
+      "pinyin": "[PINYIN_FOR_距]",
+      "needsLookup": true
+    },
+    {
+      "index": 712,
+      "character": "跤",
+      "pinyin": "[PINYIN_FOR_跤]",
+      "needsLookup": true
+    },
+    {
+      "index": 713,
+      "character": "路",
+      "pinyin": "[PINYIN_FOR_路]",
+      "needsLookup": true
+    },
+    {
+      "index": 714,
+      "character": "踩",
+      "pinyin": "[PINYIN_FOR_踩]",
+      "needsLookup": true
+    },
+    {
+      "index": 715,
+      "character": "身",
+      "pinyin": "[PINYIN_FOR_身]",
+      "needsLookup": true
+    },
+    {
+      "index": 716,
+      "character": "车",
+      "pinyin": "[PINYIN_FOR_车]",
+      "needsLookup": true
+    },
+    {
+      "index": 717,
+      "character": "转",
+      "pinyin": "[PINYIN_FOR_转]",
+      "needsLookup": true
+    },
+    {
+      "index": 718,
+      "character": "软",
+      "pinyin": "[PINYIN_FOR_软]",
+      "needsLookup": true
+    },
+    {
+      "index": 719,
+      "character": "轻",
+      "pinyin": "[PINYIN_FOR_轻]",
+      "needsLookup": true
+    },
+    {
+      "index": 720,
+      "character": "较",
+      "pinyin": "[PINYIN_FOR_较]",
+      "needsLookup": true
+    },
+    {
+      "index": 721,
+      "character": "辆",
+      "pinyin": "[PINYIN_FOR_辆]",
+      "needsLookup": true
+    },
+    {
+      "index": 722,
+      "character": "辈",
+      "pinyin": "[PINYIN_FOR_辈]",
+      "needsLookup": true
+    },
+    {
+      "index": 723,
+      "character": "辛",
+      "pinyin": "[PINYIN_FOR_辛]",
+      "needsLookup": true
+    },
+    {
+      "index": 724,
+      "character": "边",
+      "pinyin": "[PINYIN_FOR_边]",
+      "needsLookup": true
+    },
+    {
+      "index": 725,
+      "character": "达",
+      "pinyin": "[PINYIN_FOR_达]",
+      "needsLookup": true
+    },
+    {
+      "index": 726,
+      "character": "迅",
+      "pinyin": "[PINYIN_FOR_迅]",
+      "needsLookup": true
+    },
+    {
+      "index": 727,
+      "character": "迎",
+      "pinyin": "[PINYIN_FOR_迎]",
+      "needsLookup": true
+    },
+    {
+      "index": 728,
+      "character": "运",
+      "pinyin": "[PINYIN_FOR_运]",
+      "needsLookup": true
+    },
+    {
+      "index": 729,
+      "character": "近",
+      "pinyin": "[PINYIN_FOR_近]",
+      "needsLookup": true
+    },
+    {
+      "index": 730,
+      "character": "这",
+      "pinyin": "[PINYIN_FOR_这]",
+      "needsLookup": true
+    },
+    {
+      "index": 731,
+      "character": "进",
+      "pinyin": "[PINYIN_FOR_进]",
+      "needsLookup": true
+    },
+    {
+      "index": 732,
+      "character": "远",
+      "pinyin": "[PINYIN_FOR_远]",
+      "needsLookup": true
+    },
+    {
+      "index": 733,
+      "character": "连",
+      "pinyin": "[PINYIN_FOR_连]",
+      "needsLookup": true
+    },
+    {
+      "index": 734,
+      "character": "迟",
+      "pinyin": "[PINYIN_FOR_迟]",
+      "needsLookup": true
+    },
+    {
+      "index": 735,
+      "character": "迹",
+      "pinyin": "[PINYIN_FOR_迹]",
+      "needsLookup": true
+    },
+    {
+      "index": 736,
+      "character": "适",
+      "pinyin": "[PINYIN_FOR_适]",
+      "needsLookup": true
+    },
+    {
+      "index": 737,
+      "character": "选",
+      "pinyin": "[PINYIN_FOR_选]",
+      "needsLookup": true
+    },
+    {
+      "index": 738,
+      "character": "造",
+      "pinyin": "[PINYIN_FOR_造]",
+      "needsLookup": true
+    },
+    {
+      "index": 739,
+      "character": "遇",
+      "pinyin": "[PINYIN_FOR_遇]",
+      "needsLookup": true
+    },
+    {
+      "index": 740,
+      "character": "遍",
+      "pinyin": "[PINYIN_FOR_遍]",
+      "needsLookup": true
+    },
+    {
+      "index": 741,
+      "character": "道",
+      "pinyin": "[PINYIN_FOR_道]",
+      "needsLookup": true
+    },
+    {
+      "index": 742,
+      "character": "遗",
+      "pinyin": "[PINYIN_FOR_遗]",
+      "needsLookup": true
+    },
+    {
+      "index": 743,
+      "character": "遥",
+      "pinyin": "[PINYIN_FOR_遥]",
+      "needsLookup": true
+    },
+    {
+      "index": 744,
+      "character": "遵",
+      "pinyin": "[PINYIN_FOR_遵]",
+      "needsLookup": true
+    },
+    {
+      "index": 745,
+      "character": "避",
+      "pinyin": "[PINYIN_FOR_避]",
+      "needsLookup": true
+    },
+    {
+      "index": 746,
+      "character": "邀",
+      "pinyin": "[PINYIN_FOR_邀]",
+      "needsLookup": true
+    },
+    {
+      "index": 747,
+      "character": "那",
+      "pinyin": "[PINYIN_FOR_那]",
+      "needsLookup": true
+    },
+    {
+      "index": 748,
+      "character": "邮",
+      "pinyin": "[PINYIN_FOR_邮]",
+      "needsLookup": true
+    },
+    {
+      "index": 749,
+      "character": "郎",
+      "pinyin": "[PINYIN_FOR_郎]",
+      "needsLookup": true
+    },
+    {
+      "index": 750,
+      "character": "部",
+      "pinyin": "[PINYIN_FOR_部]",
+      "needsLookup": true
+    },
+    {
+      "index": 751,
+      "character": "都",
+      "pinyin": "[PINYIN_FOR_都]",
+      "needsLookup": true
+    },
+    {
+      "index": 752,
+      "character": "酒",
+      "pinyin": "[PINYIN_FOR_酒]",
+      "needsLookup": true
+    },
+    {
+      "index": 753,
+      "character": "醋",
+      "pinyin": "[PINYIN_FOR_醋]",
+      "needsLookup": true
+    },
+    {
+      "index": 754,
+      "character": "里",
+      "pinyin": "[PINYIN_FOR_里]",
+      "needsLookup": true
+    },
+    {
+      "index": 755,
+      "character": "重",
+      "pinyin": "[PINYIN_FOR_重]",
+      "needsLookup": true
+    },
+    {
+      "index": 756,
+      "character": "野",
+      "pinyin": "[PINYIN_FOR_野]",
+      "needsLookup": true
+    },
+    {
+      "index": 757,
+      "character": "量",
+      "pinyin": "[PINYIN_FOR_量]",
+      "needsLookup": true
+    },
+    {
+      "index": 758,
+      "character": "针",
+      "pinyin": "[PINYIN_FOR_针]",
+      "needsLookup": true
+    },
+    {
+      "index": 759,
+      "character": "钟",
+      "pinyin": "[PINYIN_FOR_钟]",
+      "needsLookup": true
+    },
+    {
+      "index": 760,
+      "character": "钢",
+      "pinyin": "[PINYIN_FOR_钢]",
+      "needsLookup": true
+    },
+    {
+      "index": 761,
+      "character": "钥",
+      "pinyin": "[PINYIN_FOR_钥]",
+      "needsLookup": true
+    },
+    {
+      "index": 762,
+      "character": "钱",
+      "pinyin": "[PINYIN_FOR_钱]",
+      "needsLookup": true
+    },
+    {
+      "index": 763,
+      "character": "铁",
+      "pinyin": "[PINYIN_FOR_铁]",
+      "needsLookup": true
+    },
+    {
+      "index": 764,
+      "character": "银",
+      "pinyin": "[PINYIN_FOR_银]",
+      "needsLookup": true
+    },
+    {
+      "index": 765,
+      "character": "链",
+      "pinyin": "[PINYIN_FOR_链]",
+      "needsLookup": true
+    },
+    {
+      "index": 766,
+      "character": "镜",
+      "pinyin": "[PINYIN_FOR_镜]",
+      "needsLookup": true
+    },
+    {
+      "index": 767,
+      "character": "间",
+      "pinyin": "[PINYIN_FOR_间]",
+      "needsLookup": true
+    },
+    {
+      "index": 768,
+      "character": "闹",
+      "pinyin": "[PINYIN_FOR_闹]",
+      "needsLookup": true
+    },
+    {
+      "index": 769,
+      "character": "阅",
+      "pinyin": "[PINYIN_FOR_阅]",
+      "needsLookup": true
+    },
+    {
+      "index": 770,
+      "character": "阿",
+      "pinyin": "[PINYIN_FOR_阿]",
+      "needsLookup": true
+    },
+    {
+      "index": 771,
+      "character": "际",
+      "pinyin": "[PINYIN_FOR_际]",
+      "needsLookup": true
+    },
+    {
+      "index": 772,
+      "character": "院",
+      "pinyin": "[PINYIN_FOR_院]",
+      "needsLookup": true
+    },
+    {
+      "index": 773,
+      "character": "除",
+      "pinyin": "[PINYIN_FOR_除]",
+      "needsLookup": true
+    },
+    {
+      "index": 774,
+      "character": "险",
+      "pinyin": "[PINYIN_FOR_险]",
+      "needsLookup": true
+    },
+    {
+      "index": 775,
+      "character": "随",
+      "pinyin": "[PINYIN_FOR_随]",
+      "needsLookup": true
+    },
+    {
+      "index": 776,
+      "character": "障",
+      "pinyin": "[PINYIN_FOR_障]",
+      "needsLookup": true
+    },
+    {
+      "index": 777,
+      "character": "集",
+      "pinyin": "[PINYIN_FOR_集]",
+      "needsLookup": true
+    },
+    {
+      "index": 778,
+      "character": "雕",
+      "pinyin": "[PINYIN_FOR_雕]",
+      "needsLookup": true
+    },
+    {
+      "index": 779,
+      "character": "零",
+      "pinyin": "[PINYIN_FOR_零]",
+      "needsLookup": true
+    },
+    {
+      "index": 780,
+      "character": "需",
+      "pinyin": "[PINYIN_FOR_需]",
+      "needsLookup": true
+    },
+    {
+      "index": 781,
+      "character": "霉",
+      "pinyin": "[PINYIN_FOR_霉]",
+      "needsLookup": true
+    },
+    {
+      "index": 782,
+      "character": "青",
+      "pinyin": "[PINYIN_FOR_青]",
+      "needsLookup": true
+    },
+    {
+      "index": 783,
+      "character": "静",
+      "pinyin": "[PINYIN_FOR_静]",
+      "needsLookup": true
+    },
+    {
+      "index": 784,
+      "character": "非",
+      "pinyin": "[PINYIN_FOR_非]",
+      "needsLookup": true
+    },
+    {
+      "index": 785,
+      "character": "面",
+      "pinyin": "[PINYIN_FOR_面]",
+      "needsLookup": true
+    },
+    {
+      "index": 786,
+      "character": "革",
+      "pinyin": "[PINYIN_FOR_革]",
+      "needsLookup": true
+    },
+    {
+      "index": 787,
+      "character": "鞋",
+      "pinyin": "[PINYIN_FOR_鞋]",
+      "needsLookup": true
+    },
+    {
+      "index": 788,
+      "character": "音",
+      "pinyin": "[PINYIN_FOR_音]",
+      "needsLookup": true
+    },
+    {
+      "index": 789,
+      "character": "顶",
+      "pinyin": "[PINYIN_FOR_顶]",
+      "needsLookup": true
+    },
+    {
+      "index": 790,
+      "character": "项",
+      "pinyin": "[PINYIN_FOR_项]",
+      "needsLookup": true
+    },
+    {
+      "index": 791,
+      "character": "顾",
+      "pinyin": "[PINYIN_FOR_顾]",
+      "needsLookup": true
+    },
+    {
+      "index": 792,
+      "character": "预",
+      "pinyin": "[PINYIN_FOR_预]",
+      "needsLookup": true
+    },
+    {
+      "index": 793,
+      "character": "领",
+      "pinyin": "[PINYIN_FOR_领]",
+      "needsLookup": true
+    },
+    {
+      "index": 794,
+      "character": "颐",
+      "pinyin": "[PINYIN_FOR_颐]",
+      "needsLookup": true
+    },
+    {
+      "index": 795,
+      "character": "频",
+      "pinyin": "[PINYIN_FOR_频]",
+      "needsLookup": true
+    },
+    {
+      "index": 796,
+      "character": "题",
+      "pinyin": "[PINYIN_FOR_题]",
+      "needsLookup": true
+    },
+    {
+      "index": 797,
+      "character": "颜",
+      "pinyin": "[PINYIN_FOR_颜]",
+      "needsLookup": true
+    },
+    {
+      "index": 798,
+      "character": "风",
+      "pinyin": "[PINYIN_FOR_风]",
+      "needsLookup": true
+    },
+    {
+      "index": 799,
+      "character": "食",
+      "pinyin": "[PINYIN_FOR_食]",
+      "needsLookup": true
+    },
+    {
+      "index": 800,
+      "character": "餐",
+      "pinyin": "[PINYIN_FOR_餐]",
+      "needsLookup": true
+    },
+    {
+      "index": 801,
+      "character": "饭",
+      "pinyin": "[PINYIN_FOR_饭]",
+      "needsLookup": true
+    },
+    {
+      "index": 802,
+      "character": "饰",
+      "pinyin": "[PINYIN_FOR_饰]",
+      "needsLookup": true
+    },
+    {
+      "index": 803,
+      "character": "饼",
+      "pinyin": "[PINYIN_FOR_饼]",
+      "needsLookup": true
+    },
+    {
+      "index": 804,
+      "character": "馆",
+      "pinyin": "[PINYIN_FOR_馆]",
+      "needsLookup": true
+    },
+    {
+      "index": 805,
+      "character": "首",
+      "pinyin": "[PINYIN_FOR_首]",
+      "needsLookup": true
+    },
+    {
+      "index": 806,
+      "character": "马",
+      "pinyin": "[PINYIN_FOR_马]",
+      "needsLookup": true
+    },
+    {
+      "index": 807,
+      "character": "驾",
+      "pinyin": "[PINYIN_FOR_驾]",
+      "needsLookup": true
+    },
+    {
+      "index": 808,
+      "character": "骄",
+      "pinyin": "[PINYIN_FOR_骄]",
+      "needsLookup": true
+    },
+    {
+      "index": 809,
+      "character": "骑",
+      "pinyin": "[PINYIN_FOR_骑]",
+      "needsLookup": true
+    },
+    {
+      "index": 810,
+      "character": "骨",
+      "pinyin": "[PINYIN_FOR_骨]",
+      "needsLookup": true
+    },
+    {
+      "index": 811,
+      "character": "鱼",
+      "pinyin": "[PINYIN_FOR_鱼]",
+      "needsLookup": true
+    },
+    {
+      "index": 812,
+      "character": "鲁",
+      "pinyin": "[PINYIN_FOR_鲁]",
+      "needsLookup": true
+    },
+    {
+      "index": 813,
+      "character": "鲜",
+      "pinyin": "[PINYIN_FOR_鲜]",
+      "needsLookup": true
+    },
+    {
+      "index": 814,
+      "character": "鸡",
+      "pinyin": "[PINYIN_FOR_鸡]",
+      "needsLookup": true
+    },
+    {
+      "index": 815,
+      "character": "鸭",
+      "pinyin": "[PINYIN_FOR_鸭]",
+      "needsLookup": true
+    },
+    {
+      "index": 816,
+      "character": "麦",
+      "pinyin": "[PINYIN_FOR_麦]",
+      "needsLookup": true
+    },
+    {
+      "index": 817,
+      "character": "麻",
+      "pinyin": "[PINYIN_FOR_麻]",
+      "needsLookup": true
+    },
+    {
+      "index": 818,
+      "character": "黄",
+      "pinyin": "[PINYIN_FOR_黄]",
+      "needsLookup": true
+    },
+    {
+      "index": 819,
+      "character": "黎",
+      "pinyin": "[PINYIN_FOR_黎]",
+      "needsLookup": true
+    },
+    {
+      "index": 820,
+      "character": "鼻",
+      "pinyin": "[PINYIN_FOR_鼻]",
+      "needsLookup": true
+    },
+    {
+      "index": 821,
+      "character": "齐",
+      "pinyin": "[PINYIN_FOR_齐]",
+      "needsLookup": true
+    },
+    {
+      "index": 822,
+      "character": "龄",
+      "pinyin": "[PINYIN_FOR_龄]",
+      "needsLookup": true
+    }
+  ]
+}
