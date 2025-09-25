@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JPEG to PNG Converter</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; text-align: center; }
+        canvas { border: 2px solid #ddd; margin: 20px; }
+        .download-btn { 
+            background: #3498db; color: white; padding: 12px 24px; 
+            text-decoration: none; border-radius: 6px; display: inline-block; margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎨 Convert JPEG to PNG</h1>
+    <p>Your JPEG logo will be converted to PNG format below:</p>
+    
+    <div id="converter"></div>
+    
+    <script>
+        const img = new Image();
+        img.onload = function() {
+            const canvas = document.createElement('canvas');
+            const ctx = canvas.getContext('2d');
+            
+            canvas.width = img.width;
+            canvas.height = img.height;
+            ctx.drawImage(img, 0, 0);
+            
+            const pngDataURL = canvas.toDataURL('image/png');
+            
+            document.getElementById('converter').innerHTML = `
+                <h3>Original JPEG (${img.width} × ${img.height})</h3>
+                <img src="app_logo.jpeg" style="max-width: 200px; border: 1px solid #ccc;">
+                <br><br>
+                <h3>Converted PNG</h3>
+                <canvas width="${img.width}" height="${img.height}" style="max-width: 200px; border: 1px solid #ccc;"></canvas>
+                <br><br>
+                <a href="${pngDataURL}" download="app-logo.png" class="download-btn">
+                    📥 Download PNG Logo
+                </a>
+            `;
+            
+            // Copy to display canvas
+            const displayCanvas = document.querySelector('canvas');
+            const displayCtx = displayCanvas.getContext('2d');
+            displayCtx.drawImage(img, 0, 0);
+        };
+        img.src = 'app_logo.jpeg';
+    </script>
+</body>
+</html>

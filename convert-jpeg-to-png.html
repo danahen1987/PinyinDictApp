@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JPEG to PNG Converter</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            padding: 20px; 
+            background: #f5f5f5;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .converter {
+            text-align: center;
+            margin: 20px 0;
+        }
+        canvas { 
+            border: 2px solid #ddd; 
+            border-radius: 8px;
+            margin: 15px;
+            max-width: 100%;
+        }
+        .download-btn {
+            background: #3498db;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 6px;
+            display: inline-block;
+            margin: 10px;
+            font-weight: bold;
+        }
+        .download-btn:hover {
+            background: #2980b9;
+        }
+        .instructions {
+            background: #e8f4fd;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        h1 { color: #2c3e50; text-align: center; }
+        .file-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 JPEG to PNG Converter</h1>
+        <p style="text-align: center; color: #666;">Convert your JPEG logo to PNG format for Android app icons</p>
+        
+        <div class="instructions">
+            <h3>📋 Instructions:</h3>
+            <ol>
+                <li>Your JPEG logo will be automatically loaded below</li>
+                <li>Click "Download PNG" to get the converted PNG file</li>
+                <li>Save it as "app-logo.png" in your project directory</li>
+                <li>Run the PNG logo setup script</li>
+            </ol>
+        </div>
+        
+        <div class="converter">
+            <h3>🖼️ Your Logo:</h3>
+            <div id="logo-display"></div>
+            <div id="download-section"></div>
+        </div>
+        
+        <div class="file-info">
+            <h3>📁 Next Steps:</h3>
+            <ol>
+                <li>Download the PNG file below</li>
+                <li>Save it as <code>app-logo.png</code> in your project directory</li>
+                <li>Run: <code>./setup-png-logo.sh</code></li>
+                <li>Your app will have the new logo!</li>
+            </ol>
+        </div>
+    </div>
+    
+    <script>
+        function convertJPEGToPNG() {
+            const img = new Image();
+            img.onload = function() {
+                // Create canvas
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+                
+                // Set canvas size to match image
+                canvas.width = img.width;
+                canvas.height = img.height;
+                
+                // Draw image on canvas
+                ctx.drawImage(img, 0, 0);
+                
+                // Convert to PNG
+                const pngDataURL = canvas.toDataURL('image/png');
+                
+                // Display the converted image
+                const displayDiv = document.getElementById('logo-display');
+                displayDiv.innerHTML = `
+                    <h4>Original JPEG (${img.width} × ${img.height})</h4>
+                    <img src="app_logo.jpeg" style="max-width: 200px; border: 1px solid #ccc; margin: 10px;">
+                    <br>
+                    <h4>Converted PNG</h4>
+                    <canvas width="${img.width}" height="${img.height}" style="max-width: 200px; border: 1px solid #ccc; margin: 10px;"></canvas>
+                `;
+                
+                // Copy the canvas content to the display canvas
+                const displayCanvas = displayDiv.querySelector('canvas');
+                const displayCtx = displayCanvas.getContext('2d');
+                displayCtx.drawImage(img, 0, 0);
+                
+                // Create download link
+                const downloadDiv = document.getElementById('download-section');
+                downloadDiv.innerHTML = `
+                    <h3>📥 Download PNG Version</h3>
+                    <a href="${pngDataURL}" download="app-logo.png" class="download-btn">
+                        🎨 Download PNG Logo
+                    </a>
+                    <p style="color: #666; margin-top: 10px;">
+                        Size: ${img.width} × ${img.height} pixels<br>
+                        Format: PNG (with transparency support)
+                    </p>
+                `;
+            };
+            
+            img.src = 'app_logo.jpeg';
+        }
+        
+        // Start conversion when page loads
+        window.onload = convertJPEGToPNG;
+        
+        console.log('🎨 JPEG to PNG Converter loaded');
+        console.log('📱 Ready to convert your logo for Android');
+    </script>
+</body>
+</html>
