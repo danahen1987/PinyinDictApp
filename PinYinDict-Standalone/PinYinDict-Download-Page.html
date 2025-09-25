@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PinYinDict - Chinese Learning App</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        .logo-section {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .logo-section img {
+            width: 120px;
+            height: 120px;
+            border-radius: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            border: 3px solid rgba(255,255,255,0.3);
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.8em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 1.3em;
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+        .version-banner {
+            text-align: center;
+            margin: 20px 0;
+            padding: 15px;
+            background: rgba(76, 175, 80, 0.2);
+            border-radius: 15px;
+            border: 2px solid #4CAF50;
+        }
+        .download-section {
+            text-align: center;
+            margin: 40px 0;
+        }
+        .download-btn {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 18px 35px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-size: 1.3em;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+        .download-btn:hover {
+            background: #45a049;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(76, 175, 80, 0.4);
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        .feature {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .feature-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        .feature h3 {
+            margin: 15px 0 10px 0;
+            color: #FFD700;
+        }
+        .info {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 15px;
+            margin: 30px 0;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .info h3 {
+            color: #FFD700;
+            margin-top: 0;
+        }
+        .info ol, .info ul {
+            text-align: left;
+            padding-left: 20px;
+        }
+        .info li {
+            margin: 8px 0;
+        }
+        .warning {
+            background: rgba(255, 193, 7, 0.2);
+            border: 2px solid #FFC107;
+            padding: 20px;
+            border-radius: 15px;
+            margin: 30px 0;
+            text-align: center;
+        }
+        .github-link {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .github-link a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+        .github-link a:hover {
+            text-decoration: underline;
+        }
+        .changelog {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 15px;
+            margin: 30px 0;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .changelog h3 {
+            color: #FFD700;
+            margin-top: 0;
+        }
+        .changelog h4 {
+            color: #87CEEB;
+            margin: 20px 0 10px 0;
+        }
+        .changelog ul {
+            text-align: left;
+            padding-left: 20px;
+        }
+        .changelog li {
+            margin: 8px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Logo Section -->
+        <div class="logo-section">
+            <img src="app-logo.jpeg" alt="PinYinDict Logo" onerror="this.style.display='none'">
+        </div>
+        
+        <h1>🎓 PinYinDict</h1>
+        <p class="subtitle">Master Chinese Characters with Interactive Learning</p>
+        
+        <!-- Version Banner -->
+        <div class="version-banner">
+            <strong>🆕 Version 1.3 - Custom Logo Edition!</strong><br>
+            <small>✅ Custom JPEG logo integrated • ✅ Enhanced TTS • ✅ Improved Android compatibility</small>
+        </div>
+        
+        <!-- Download Section -->
+        <div class="download-section">
+            <a href="app-release.apk" class="download-btn" download>
+                📱 Download APK v1.3 (28MB)
+            </a>
+        </div>
+
+        <!-- Features Grid -->
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">📚</div>
+                <h3>Interactive Learning</h3>
+                <p>Learn Chinese characters with stroke order practice, pronunciation, and visual learning tools.</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🎯</div>
+                <h3>Progress Tracking</h3>
+                <p>Track your learning progress with viewed characters, practice counts, and achievement indicators.</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔊</div>
+                <h3>Audio Pronunciation</h3>
+                <p>Hear correct pronunciation with enhanced TTS technology optimized for Chinese learning.</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🧩</div>
+                <h3>Quiz Mode</h3>
+                <p>Test your knowledge with translation quizzes and sentence completion exercises.</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">👥</div>
+                <h3>User Management</h3>
+                <p>Create accounts, track individual progress, and manage your learning journey.</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📱</div>
+                <h3>Mobile Optimized</h3>
+                <p>Designed specifically for mobile devices with intuitive touch controls and responsive design.</p>
+            </div>
+        </div>
+
+        <!-- Installation Instructions -->
+        <div class="info">
+            <h3>📋 Installation Instructions:</h3>
+            <ol>
+                <li>Download the APK file above</li>
+                <li>Enable "Unknown Sources" in your Android settings</li>
+                <li>Tap the downloaded APK file to install</li>
+                <li>Launch the app and start learning Chinese!</li>
+            </ol>
+        </div>
+
+        <!-- Changelog -->
+        <div class="changelog">
+            <h3>📝 Version History</h3>
+            
+            <h4>🔧 Version 1.3 Updates (Latest):</h4>
+            <ul>
+                <li>✅ <strong>Custom Logo:</strong> Integrated your personal JPEG logo</li>
+                <li>✅ <strong>Enhanced TTS:</strong> Slower sentence reading for better learning</li>
+                <li>✅ <strong>Android Compatibility:</strong> Fixed sound activation issues</li>
+                <li>✅ <strong>Improved Stability:</strong> Better error handling and fallback systems</li>
+                <li>✅ <strong>Professional Branding:</strong> Custom logo on download page and app</li>
+            </ul>
+            
+            <h4>🔧 Version 1.2 Updates:</h4>
+            <ul>
+                <li>✅ <strong>TTS Improvements:</strong> Slower sentence reading for better learning</li>
+                <li>✅ <strong>Android Compatibility:</strong> Fixed sound activation issues</li>
+                <li>✅ <strong>Enhanced Error Handling:</strong> Better fallback initialization</li>
+                <li>✅ <strong>Improved Stability:</strong> More robust TTS service</li>
+            </ul>
+            
+            <h4>🔧 Version 1.1 Updates:</h4>
+            <ul>
+                <li>✅ <strong>Admin Mode Fixed:</strong> 'dana' user automatically set as admin</li>
+                <li>✅ <strong>Navigation Fixed:</strong> Next/Previous buttons work without errors</li>
+                <li>✅ <strong>Improved Stability:</strong> Better error handling and fallback logic</li>
+                <li>✅ <strong>User Experience:</strong> Smoother character navigation</li>
+            </ul>
+        </div>
+
+        <!-- System Requirements -->
+        <div class="info">
+            <h3>💻 System Requirements:</h3>
+            <ul>
+                <li>Android 5.0 (API level 21) or higher</li>
+                <li>Minimum 2GB RAM</li>
+                <li>50MB free storage space</li>
+                <li>Internet connection for initial setup</li>
+                <li>Audio capabilities for pronunciation features</li>
+            </ul>
+        </div>
+
+        <!-- Warning -->
+        <div class="warning">
+            <strong>⚠️ Important:</strong> This app requires Android 5.0 or higher. Make sure to enable installation from unknown sources in your device settings before installing.
+        </div>
+
+        <!-- GitHub Link -->
+        <div class="github-link">
+            <p>🔗 <a href="https://github.com/danahen1987/PinyinDictApp" target="_blank">View Source Code on GitHub</a></p>
+            <p>📧 Built with React Native • Version 1.3.0 (Custom Logo Edition)</p>
+            <p>🆕 <strong>Latest Update:</strong> Custom JPEG logo integration and enhanced TTS features</p>
+            <p>🎨 <strong>Logo:</strong> Your personal design now featured in the app</p>
+        </div>
+    </div>
+</body>
+</html>
