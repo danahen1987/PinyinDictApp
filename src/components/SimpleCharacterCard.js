@@ -157,7 +157,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
   // Separate useEffect to handle database initialization
   useEffect(() => {
     if (databaseHelper && !databaseInitializer) {
-      initializeApp();
+    initializeApp();
     }
   }, [databaseHelper]);
 
@@ -225,7 +225,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
             setCurrentSentence(charData.sentence);
             setCurrentCharacterId(characterToLoad.id);
             setCurrentPosition(positionToLoad);
-            setShowDiscovery(false);
+          setShowDiscovery(false);
             
             // Don't track as viewed since it's already viewed
           } else {
@@ -445,7 +445,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
     if (currentCharacter && currentCharacter.character) {
       // Use setTimeout to prevent blocking the UI
       setTimeout(() => {
-        ttsService.speakCharacter(currentCharacter.character);
+      ttsService.speakCharacter(currentCharacter.character);
       }, 0);
     }
   }, [currentCharacter]);
@@ -604,7 +604,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
                       <View style={SimpleCharacterCardStyles.characterRow}>
                         {characters.map((char, index) => {
                           const isViewed = viewedCharacters.has(currentCharacterId);
-                          return (
+                  return (
                             <TouchableOpacity
                               key={index}
                               style={[
@@ -716,10 +716,10 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
                                 </TouchableOpacity>
                               );
                             })}
-                          </View>
-                        )}
-                      </View>
-                    );
+                        </View>
+                      )}
+                    </View>
+                  );
                   }
                 }
               })()}
@@ -768,7 +768,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
       </TouchableOpacity>
 
       {/* Sentence Button */}
-      <TouchableOpacity 
+        <TouchableOpacity 
         style={{
           backgroundColor: '#3498db',
           paddingHorizontal: 40,
@@ -777,17 +777,17 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
           alignSelf: 'center',
           margin: 15,
         }}
-        onPress={() => setShowSentencePopup(true)}
-      >
+          onPress={() => setShowSentencePopup(true)}
+        >
         <Text style={{
           color: '#ffffff',
           fontSize: 20,
           fontWeight: 'bold',
         }}>...</Text>
-      </TouchableOpacity>
+        </TouchableOpacity>
 
       {/* Navigation Buttons - Circular arrows on sides */}
-      <TouchableOpacity
+        <TouchableOpacity
         style={{
           position: 'absolute',
           left: 20,
@@ -804,8 +804,8 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
           shadowRadius: 3.84,
           elevation: 5,
         }}
-        onPress={handlePrevious}
-        disabled={currentPosition <= 1}
+          onPress={handlePrevious}
+          disabled={currentPosition <= 1}
         activeOpacity={0.7}
       >
         <Text style={{
@@ -813,9 +813,9 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
           fontSize: 28,
           fontWeight: '900',
         }}>‹</Text>
-      </TouchableOpacity>
+        </TouchableOpacity>
 
-      <TouchableOpacity 
+        <TouchableOpacity 
         style={{
           position: 'absolute',
           right: 20,
@@ -832,8 +832,8 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
           shadowRadius: 3.84,
           elevation: 5,
         }}
-        onPress={handleNext}
-        disabled={currentPosition >= allCharacters.length}
+          onPress={handleNext}
+          disabled={currentPosition >= allCharacters.length}
         activeOpacity={0.7}
       >
         <Text style={{
@@ -841,7 +841,7 @@ const SimpleCharacterCard = ({ currentUser, onBackToLanding, databaseHelper }) =
           fontSize: 28,
           fontWeight: '900',
         }}>›</Text>
-      </TouchableOpacity>
+        </TouchableOpacity>
 
       </ScrollView>
 

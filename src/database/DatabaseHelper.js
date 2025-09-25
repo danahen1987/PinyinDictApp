@@ -97,7 +97,7 @@ export class DatabaseHelper {
 
     for (const index of createIndexes) {
       try {
-        await this.db.executeSql(index);
+      await this.db.executeSql(index);
       } catch (error) {
         if (error.message.includes('no such column: viewed')) {
           // Skipping viewed column index - column will be added by migration
