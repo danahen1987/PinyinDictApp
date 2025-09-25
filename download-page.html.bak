@@ -98,7 +98,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo-section" style="text-align: center; margin: 20px 0;"><img src="app-logo.png" alt="PinYinDict Logo" style="width: 100px; height: 100px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"></div><h1>🎓 PinYinDict</h1>
+        <h1>🎓 PinYinDict</h1>
         <p class="subtitle">Chinese Character Learning App</p>
     <div style="text-align: center; margin: 10px 0; padding: 10px; background: rgba(76, 175, 80, 0.2); border-radius: 10px; border: 2px solid #4CAF50;">
         <strong>🆕 Version 1.2 - TTS Improvements!</strong><br>
